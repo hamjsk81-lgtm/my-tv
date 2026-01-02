@@ -241,7 +241,7 @@ http://154.6.189.163:8085/kurdish/ku/local-Rasan-H265/mono.m3u8?md5=2C7eTPz7yfkT
 #EXTINF:-1, LOCAL NISHTMANIMN H265
 http://154.6.189.163:8085/kurdish/ku/local-Nishtmanimn-H265/mono.m3u8?md5=ql7ityGqOb9cLDW25Sio6Q&expires=1767353610&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1, WAAR TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KurdTV/Logos/main/waar.png", WAAR TV
 http://45.155.226.147:8085/kurdish/ku/Waar-tv/mono.m3u8?md5=nR6SSdi157QU2i6V_wk0Qg&expires=1767353610&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1, PAYAM

@@ -200,7 +200,7 @@ http://45.155.226.136:8085/kurdish/ku/local-Astera-H265/mono.m3u8?md5=kCK2lG5SAb
 #EXTINF:-1,LOCAL-NEWLINE-SPORT-H265
 http://154.6.189.161:8085/local/ku/local-Newline-Sport-H265/mono.m3u8?md5=DiU1HbcfbK27Ki2GCKE-xQ&expires=1767353628&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1,LOCAL-NEWLINE-BOLYWOOD-H265
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-bollywood.png",LOCAL-NEWLINE-BOLYWOOD-H265
 http://154.6.189.163:8085/kurdish/ku/local-Newline-Bolywood-H265/mono.m3u8?md5=zUfuJ6BzKqzw5Cn4j4M3wQ&expires=1767353627&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1,LOCAL-NEWLINE-KIDS-H265

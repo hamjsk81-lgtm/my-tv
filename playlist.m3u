@@ -1,357 +1,378 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=iStarMedia/1.0 (Android)
 
-#EXTINF:-1, LOCAL ISTAR QURAN H265
-http://103.163.132.13:8085/kurdish/ku/local-Istar-Quran-H265/mono.m3u8?md5=ZI_dujkTebLgDSrhPmqYJA&expires=1767440240&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, GALI KURDISTAN
-http://103.163.132.12:8085/kurdish/ku/Gali-Kurdistan/mono.m3u8?md5=He9OWu8QQEAnzfJwLvP_AA&expires=1767440199&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ISTAR MEDIA HD H265
-http://103.163.132.12:8085/kurdish/ku/local-ISTAR-Media-HD-h265/mono.m3u8?md5=3keqAIbs4DcvGpvwwQKhUA&expires=1767440239&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ISTAR MOVIES H265
-http://45.155.226.147:8085/kurdish/ku/local-ISTAR-Movies-h265/mono.m3u8?md5=XixJrw_by8gif_6QMmER3w&expires=1767440238&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL RENG HD H265
-http://45.155.226.138:8085/kurdish/ku/local-Reng-HD-H265/mono.m3u8?md5=Oa0Fou6Ka84miscoxrGafQ&expires=1767440161&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ISTAR FOLKLOR H265
-http://103.163.132.13:8085/kurdish/ku/local-ISTAR-Folklor-H265/mono.m3u8?md5=2MoJfW1bcQ8-fS-vALo08w&expires=1767440237&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ISTAR KIDS H265
-http://45.155.226.147:8085/kurdish/ku/local-ISTAR-Kids-H265/mono.m3u8?md5=yNnONJPCNS4ucOaXIa0WMg&expires=1767440236&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, K24 H265
-http://45.155.226.136:8085/kurdish/ku/K24-h265/mono.m3u8?md5=v9kWjarBoD-i1Sbjtrtdkg&expires=1767440235&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASMAN HD H265
-http://45.155.226.139:8085/kurdish/ku/Local-Asman-HD-H265/mono.m3u8?md5=rj3uhsQ3akR4VsAW1pE-FA&expires=1767440136&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, SPEDA
-http://103.163.132.12:8085/kurdish/ku/Speda/mono.m3u8?md5=vl3YmvD1d8cSJA6uLwX1bg&expires=1767440204&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, K24 DOCUMENTARY H265
-http://45.155.226.136:8085/kurdish/ku/K24-Documentary-H265/mono.m3u8?md5=hjbF3qkuV-Fy_Z836Gdymg&expires=1767440233&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, RUDAW HD H265
-http://154.6.189.162:8085/kurdish/ku/Rudaw-hd-h265/mono.m3u8?md5=nYuPJ0G9w6w5wfte7mJgeg&expires=1767440232&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, KURDISTAN
-http://103.163.132.13:8085/kurdish/ku/Kurdistan/mono.m3u8?md5=zaNIcgJrEdQs4V_Q1s03Cw&expires=1767440210&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, AVA TV HD
-http://103.163.132.13:8085/kurdish/ku/AVA-TV-HD/mono.m3u8?md5=v83ds0yBO8szd3wcmE5-LA&expires=1767440209&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, AVA SPORT H265
-http://154.6.189.162:8085/local/ku/ava-sport-h265/mono.m3u8?md5=2_hAY_a2Wy3zCz73x3lm5g&expires=1767440209&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, KURDSAT HD H265
-http://45.155.226.133:8085/kurdish/ku/Kurdsat-HD-h265/mono.m3u8?md5=JWs3AFLADyMWa8tKfqzFFQ&expires=1767440208&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, KURDSAT NEWS HD H265
-http://103.163.132.13:8085/kurdish/ku/Kurdsat-News-HD-h265/mono.m3u8?md5=Nbm_IEQiaE_P6Ubq6xlCcQ&expires=1767440207&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, CHANNEL 8 H265
-http://103.163.132.13:8085/kurdish/ku/Channel-8-h265/mono.m3u8?md5=pJMdECkq5pjdi9w05In3Bg&expires=1767440206&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, NRT HD H265
-http://45.155.226.147:8085/kurdish/ku/NRT-Hd-H265/mono.m3u8?md5=vDwXolZFhXjsip9njZkA-w&expires=1767440204&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL SPEDA DRAMA H265
-http://45.155.226.133:8085/kurdish/ku/local-SPEDA-DRAMA-H265/mono.m3u8?md5=Fu4J6Be-jzGlrR47-5FU4Q&expires=1767440201&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL UTV HD H265
-http://45.155.226.133:8085/kurdish/ku/local-UTV-HD-H265/mono.m3u8?md5=PQjHEhUInzGABZuPac8CcA&expires=1767440200&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL U2 TV H265
-http://154.6.189.163:8085/kurdish/ku/local-U2-TV-H265/mono.m3u8?md5=nvGBQDsSk3xXQv0Q_zH7hg&expires=1767440200&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, PAYAM
-http://45.155.226.136:8085/kurdish/ku/Payam/mono.m3u8?md5=FKo-N-Tq9-efUfu5vJFdbQ&expires=1767440197&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, WAAR TV
-http://154.6.189.163:8085/kurdish/ku/Waar-tv/mono.m3u8?md5=2LfIQpB4VaF2uyK40GEZrQ&expires=1767440196&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NISHTMANIMN H265
-http://45.155.226.138:8085/kurdish/ku/local-Nishtmanimn-H265/mono.m3u8?md5=aAslL4THQgxvkzloAmKnnw&expires=1767440195&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL RASAN H265
-http://103.163.132.12:8085/kurdish/ku/local-Rasan-H265/mono.m3u8?md5=hoDKjmLD5j0BsGiKfhjJdA&expires=1767440194&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, KALAPUR H265
-http://103.163.132.12:8085/kurdish/ku/Kalapur-h265/mono.m3u8?md5=-vF0nMMDg6-IJzK416IGCA&expires=1767440193&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ZED HD H265
-http://154.6.189.162:8085/kurdish/ku/local-ZED-HD-H265/mono.m3u8?md5=OsqBboKIylecbPMZGvW7pw&expires=1767440192&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ZED PLUSE H265
-http://154.6.189.163:8085/kurdish/ku/Local-Zed-pluse-H265/mono.m3u8?md5=xMPvhdfPf4tYSTQ-D2DxOw&expires=1767440191&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL DIMAN HD H265
-http://45.155.226.138:8085/kurdish/ku/local-Diman-HD-H265/mono.m3u8?md5=lXKvZBTEyWEUxstDq2PjcA&expires=1767440190&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL KURDMAX HD H265
-http://45.155.226.136:8085/kurdish/ku/Local-KURDMAX-HD-H265/mono.m3u8?md5=K6HQ5x6SfSNbk3F175pgIA&expires=1767440189&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, KURDMAX SHOW TV H265
-http://103.163.132.13:8085/kurdish/ku/KurdMax-Show-TV-h265/mono.m3u8?md5=UfQMFaFhKmhKfRDTV3GHJQ&expires=1767440187&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, KURDMAX MUSIC H265
-http://45.155.226.136:8085/kurdish/ku/KurdMax-Music-H265/mono.m3u8?md5=I5oBXSogtWJYXe1seJWQ2A&expires=1767440186&type=a1&info=12d7087e0000630d
-
 #EXTINF:-1, KURDMAX PEPULE KURDISH H265
-http://154.6.189.161:8085/kurdish/ku/Kurdmax-Pepule-Kurdish-H265/mono.m3u8?md5=_3CmfhCh33oR28NZ9vhxyw&expires=1767440185&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NEWLINE H265
-http://45.155.226.133:8085/kurdish/ku/local-NewLine-H265/mono.m3u8?md5=NDXAh2dQeWPHmEmeZMYZJQ&expires=1767440184&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NEWLINE2 H265
-http://103.163.132.12:8085/kurdish/ku/local-NewLine2-H265/mono.m3u8?md5=n3pL7ZigswJHH55zXgkFDg&expires=1767440183&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NEWLINE DRAMA H265
-http://45.155.226.136:8085/kurdish/ku/local-Newline-Drama-H265/mono.m3u8?md5=mS4q8Inl2-J9P2WU_Pkqnw&expires=1767440181&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NEWLINE MOVIES H265
-http://154.6.189.162:8085/kurdish/ku/local-Newline-Movies-H265/mono.m3u8?md5=hyE_9L-1yjclt4a5_M5NsQ&expires=1767440180&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NEWLINE KIDS H265
-http://103.163.132.13:8085/kurdish/ku/local-Newline-Kids-H265/mono.m3u8?md5=YGcvftxsY1QAny_Z__SA3Q&expires=1767440179&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NEWLINE BOLYWOOD H265
-http://154.6.189.162:8085/kurdish/ku/local-Newline-Bolywood-H265/mono.m3u8?md5=cuefdRTeU-t9pITppP2R-g&expires=1767440178&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NEWLINE SPORT H265
-http://45.155.226.138:8085/local/ku/local-Newline-Sport-H265/mono.m3u8?md5=8OQriAbbhfKpvtZptqU7Gg&expires=1767440177&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASTERA H265
-http://154.6.189.162:8085/kurdish/ku/local-Astera-H265/mono.m3u8?md5=oehnqb9t69lfm4-A5Hr6dg&expires=1767440176&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASTERA MOVIES HD H265
-http://154.6.189.162:8085/kurdish/ku/local-Astera-Movies-HD-H265/mono.m3u8?md5=sAeaAdDpg63JwyFWOB2ong&expires=1767440175&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASTERA SHOW HD H265
-http://154.6.189.163:8085/kurdish/ku/local-Astera-Show-HD-H265/mono.m3u8?md5=ObtJkYRGVWKiF7tw106HFA&expires=1767440174&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASTERA BABY H265
-http://154.6.189.162:8085/kurdish/ku/local-Astera-Baby-H265/mono.m3u8?md5=dggjTP6iqJ9x57i4laqgmA&expires=1767440174&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASTERA FOLCLOR H265
-http://45.155.226.147:8085/kurdish/ku/local-Astera-Folclor-H265/mono.m3u8?md5=97SvdKD7vq1GsNkK05Vblg&expires=1767440172&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASTERA DOCUMEN H265
-http://45.155.226.136:8085/kurdish/ku/local-Astera-Documen-H265/mono.m3u8?md5=yRdN1YWYE6v3SDTt4Y2OVQ&expires=1767440172&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASTERS SPORT 1 HD H265
-http://103.163.132.13:8085/local/ku/local-Asters-Sport-1-HD-H265/mono.m3u8?md5=4gQgXgFl2NMZ75HUDY_eeA&expires=1767440170&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASTERS SPORT 2 HD H265
-http://103.163.132.13:8085/kurdish/ku/local-Asters-Sport-2-HD-H265/mono.m3u8?md5=p4KBc_ce6yCoCbh6jmNqVw&expires=1767440170&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NIGA TV H265
-http://45.155.226.133:8085/kurdish/ku/local-Niga-tv-H265/mono.m3u8?md5=Kq9iBH3o8keeXPIatAHj7A&expires=1767440169&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NIGA KIDS H265
-http://103.163.132.12:8085/kurdish/ku/local-NIGA-KIDS-H265/mono.m3u8?md5=zlyfvhesbStxHziL0JNzeA&expires=1767440168&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL NIGA MOVIES
-http://45.155.226.139:8085/kurdish/ku/local-Niga-Movies/mono.m3u8?md5=26HSHTY1cYKSc_GDWNS5GA&expires=1767440167&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ARO FAMILY
-http://103.163.132.13:8085/kurdish/ku/local-Aro-Family/mono.m3u8?md5=6R6PqAtam0OXXCE5JgtEQw&expires=1767440166&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ARO SPORT
-http://103.163.132.12:8085/local/ku/local-Aro-Sport/mono.m3u8?md5=qTkLXWudfQIJVhXQL4PT-g&expires=1767440165&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, NRT2 HD H265
-http://45.155.226.133:8085/kurdish/ku/NRT2-HD-h265/mono.m3u8?md5=Eq1voXi2AWMB5CwH8XdkdA&expires=1767440165&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, NRT 4 H265
-http://45.155.226.133:8085/kurdish/ku/NRT-4-h265/mono.m3u8?md5=kgwagY918wTrzCkp46hf5w&expires=1767440163&type=a1&info=12d7087e0000630d
+http://154.6.189.161:8085/kurdish/ku/Kurdmax-Pepule-Kurdish-H265/mono.m3u8?md5=A43LrYpJC9QfHzdHqPh-tQ&expires=1767481364&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1, KURD NRT SPORT
-http://45.155.226.147:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=WdJCwY8ypGTL30LLRLqwwQ&expires=1767440162&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL RANG DOCUMENTARY
-http://154.6.189.162:8085/kurdish/ku/local-Rang-Documentary/mono.m3u8?md5=6-EE0_Leizq-hWJXxGtJrg&expires=1767440160&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL RANG SPORT
-http://154.6.189.161:8085/local/ku/Local-Rang-Sport/mono.m3u8?md5=C7JkMahoh6BkKmswqhca5Q&expires=1767440159&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL RENG KIDSH265
-http://45.155.226.147:8085/kurdish/ku/local-Reng-kidsH265/mono.m3u8?md5=gs7seiXZwOLqqqNtnUBsbQ&expires=1767440158&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL AFARIN HD
-http://45.155.226.133:8085/kurdish/ku/local-Afarin-HD/mono.m3u8?md5=zkp0oTJ8Cz0fPM9EonlGpA&expires=1767440156&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, ABAXCHA
-http://154.6.189.161:8085/baghdad/live/abaxcha/mono.m3u8?md5=BlSKz2gbBigQj9yRzL2Ykw&expires=1767440154&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL FIRST HD H265
-http://154.6.189.161:8085/kurdish/ku/Local-First-HD-H265/mono.m3u8?md5=c_3WY1fAYqjr2RIHI3YsAQ&expires=1767440153&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL JOJO MAMA HD H265
-http://45.155.226.133:8085/kurdish/ku/local-Jojo-Mama-HD-H265/mono.m3u8?md5=SvWh-Cn6bEHHyrS2srN7Zw&expires=1767440152&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL KIDCO HD H265
-http://154.6.189.161:8085/kurdish/ku/local-Kidco-HD-H265/mono.m3u8?md5=QtiMuToIQYIDJu5Z_NDXDA&expires=1767440151&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, 4 ANIME H265
-http://45.155.226.147:8085/kurdish/ku/4-Anime-h265/mono.m3u8?md5=_8BOcxFlKQ51yzQjVAN7fg&expires=1767440150&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL OSCAR HD H265
-http://154.6.189.163:8085/kurdish/ku/local-Oscar-HD-H265/mono.m3u8?md5=HO2IMmlQCdonvmt14l7FYg&expires=1767440149&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, PELISTANK H265
-http://154.6.189.161:8085/kurdish/ku/Pelistank-h265/mono.m3u8?md5=DPcZNIsmnTn1ODxhywsTTw&expires=1767440148&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL PARWARDAE HAWLER H265
-http://154.6.189.161:8085/kurdish/ku/local-Parwardae-Hawler-h265/mono.m3u8?md5=nnq5sOmZ1ZyL7P4OHb2Vsw&expires=1767440147&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, CAMBRIDGE TV
-http://154.6.189.162:8085/kurdish/ku/Cambridge-TV/mono.m3u8?md5=0nQbwNga1tDmROnaaAW-3Q&expires=1767440147&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ZHYAR HD H265
-http://103.163.132.12:8085/kurdish/ku/local-Zhyar-HD-H265/mono.m3u8?md5=ISPBwV4qgsrEMk4tV5wH-g&expires=1767440145&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCA SADA H265
-http://103.163.132.12:8085/kurdish/ku/loca-Sada-h265/mono.m3u8?md5=L7byLfA4obIHYLUhdZDeIA&expires=1767440145&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, SAUDI QURAAN
-http://45.155.226.133:8085/arabic/ar/Saudi-Quraan/mono.m3u8?md5=mafDjqSAEYqg65vn-ocJEw&expires=1767440143&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, QURAAN SUNNAH
-http://103.163.132.12:8085/arabic/ar/Quraan-Sunnah/mono.m3u8?md5=l3kFXqnbBq9997NMhkyQPw&expires=1767440143&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL TASAWF HD
-http://45.155.226.136:8085/kurdish/ku/local-Tasawf-HD/mono.m3u8?md5=dOT1RHNHBmoSgFPuguYhDQ&expires=1767440142&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL JUDY H265
-http://103.163.132.13:8085/kurdish/ku/local-Judy-H265/mono.m3u8?md5=XJ6ZJLIQjeCiFOM1ELld6Q&expires=1767440141&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL KOMAL HD H265
-http://103.163.132.12:8085/kurdish/ku/local-Komal-HD-H265/mono.m3u8?md5=7VM41n9hR43WrC3JXNTTow&expires=1767440139&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL SRUSHT H265
-http://103.163.132.13:8085/kurdish/ku/local-Srusht-H265/mono.m3u8?md5=g8SBHh-0dpMN9tIAnJlRNw&expires=1767440138&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LIVE MIHRAB TV
-http://154.6.189.163:8085/kurdish/ku/Live-Mihrab-TV/mono.m3u8?md5=_9cr29P4ZjpDM82Nqbx6DQ&expires=1767440136&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, BANGAWAZ
-http://154.6.189.163:8085/kurdish/ku/Bangawaz/mono.m3u8?md5=RFFEIkRvIXUqhwjBl5XMRA&expires=1767440135&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, AMOZHGARY
-http://45.155.226.133:8085/kurdish/ku/Amozhgary/mono.m3u8?md5=mu6ttkpW0G28IxujyUEW4Q&expires=1767440134&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, BASK H265
-http://103.163.132.12:8085/kurdish/ku/Bask-h265/mono.m3u8?md5=nx1uyZ6QEPj7N3LwvaSthg&expires=1767440133&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL BINAR HD H265
-http://154.6.189.163:8085/kurdish/ku/Local-Binar-HD-H265/mono.m3u8?md5=HLQ8zvnFZXLlczax9rnx7w&expires=1767440132&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, AZADI H265
-http://103.163.132.12:8085/kurdish/ku/azadi-h265/mono.m3u8?md5=XHefthG76yRClDruuGxBAA&expires=1767440132&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL EFFECT TV H265
-http://154.6.189.163:8085/kurdish/ku/Local-Effect-TV-H265/mono.m3u8?md5=odx_AKp_s7yxL5zQePrDcg&expires=1767440130&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL AVAR H265
-http://154.6.189.163:8085/kurdish/ku/local-Avar-h265/mono.m3u8?md5=nPJBoz8oa57-KkEOqQ7whA&expires=1767440128&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL KHAK HD
-http://103.163.132.13:8085/kurdish/ku/Local-Khak-HD/mono.m3u8?md5=l8bzbWTCstBRP-XeJ6iXug&expires=1767440127&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, BMCHD
-http://45.155.226.136:8085/baghdad/live/bmchd/mono.m3u8?md5=BR_S_ZcMlo1fMZSXLqBMog&expires=1767440126&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ZNAR TV H265
-http://45.155.226.133:8085/kurdish/ku/Local-Znar-TV-H265/mono.m3u8?md5=CrpMhQu0dIiec273csIp-g&expires=1767440125&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL BABOLLY H265
-http://45.155.226.139:8085/kurdish/ku/Local-babolly-H265/mono.m3u8?md5=sgIWt_IBS0Lh4rwNZ0nZSA&expires=1767440124&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ESTA HD H265
-http://154.6.189.162:8085/kurdish/ku/local-Esta-hd-H265/mono.m3u8?md5=WJ5p9ekt5MRaT7WhD-huSw&expires=1767440123&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL CIHAN HD H265
-http://154.6.189.162:8085/kurdish/ku/local-Cihan-HD-H265/mono.m3u8?md5=vQlkW05dNLr0NpaQo3szzQ&expires=1767440121&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL MINARA HD
-http://45.155.226.136:8085/kurdish/ku/local-Minara-HD/mono.m3u8?md5=kj9M4lduWWotAEh6iC7nxA&expires=1767440120&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ALA TV H265
-http://45.155.226.139:8085/kurdish/ku/local-ALA-TV-H265/mono.m3u8?md5=ifno1J1gXuLocobW0dCPTw&expires=1767440119&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ROZH HD H265
-http://45.155.226.139:8085/kurdish/ku/local-rozh-hd-H265/mono.m3u8?md5=lvfqumBoak8PN-xA6-FwsQ&expires=1767440118&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL DERWAZE HD H265
-http://154.6.189.162:8085/kurdish/ku/Local-Derwaze-HD-H265/mono.m3u8?md5=un13ukVa98tz0-3nuJd1Jw&expires=1767440117&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL DERWAZE MUSIC HD H265
-http://103.163.132.12:8085/kurdish/ku/local-Derwaze-Music-HD-H265/mono.m3u8?md5=g5QYeCYeLke2NTRoishILQ&expires=1767440116&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, QALLAM AYNI H265
-http://154.6.189.162:8085/kurdish/ku/Qallam-Ayni-h265/mono.m3u8?md5=m4AYEjQ6P6T8f3LOC6G9uQ&expires=1767440113&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, QALLAM TV H265
-http://154.6.189.162:8085/kurdish/ku/Qallam-TV-h265/mono.m3u8?md5=QY4OV4Iql0uJ6U4Pd5MwzA&expires=1767440112&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL DUHOK TV
-http://45.155.226.133:8085/kurdish/ku/Local-Duhok-TV/mono.m3u8?md5=GxYvHoaK__iHRyupXUWv8w&expires=1767440111&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL DUHOK SPORT
-http://154.6.189.163:8085/local/ku/local-Duhok-Sport/mono.m3u8?md5=6RaNm4-VXWO601zZ5cwrgQ&expires=1767440110&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL DASNYA KIDS HD
-http://45.155.226.147:8085/kurdish/ku/local-Dasnya-Kids-HD/mono.m3u8?md5=uAsLsd2fqyeGOQt2qflUeA&expires=1767440108&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL DASNYA MUSIC HD
-http://45.155.226.147:8085/kurdish/ku/local-Dasnya-Music-HD/mono.m3u8?md5=7rpzjZYspnuP8MztsoTQQQ&expires=1767440106&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LIVE NUBAR TV
-http://45.155.226.133:8085/baghdad/ku/Live-NUBAR-TV/mono.m3u8?md5=Z01jPyCkWeJcMEWGAPXXlg&expires=1767440105&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, SPIHD
-http://103.163.132.13:8085/baghdad/live/SPIHD/mono.m3u8?md5=g9xvNYuN0YpKFVHk8pDQcA&expires=1767440103&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL KURDISTANSPORT
-http://154.6.189.163:8085/local/ku/local-KurdistanSport/mono.m3u8?md5=zQMu8oLxiBqKjmfI0WMpoQ&expires=1767440100&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL ASOSPORT
-http://154.6.189.162:8085/local/ku/local-AsoSport/mono.m3u8?md5=w-JOmf6_pBoEgPIZ-Vynbw&expires=1767440099&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, LOCAL GOAL SPORT 1 HD H265
-http://45.155.226.136:8085/local/ku/local-Goal-Sport-1-HD-H265/mono.m3u8?md5=eg1waKvElITYYb7XhTVTyA&expires=1767440097&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, SSC1
-http://103.163.132.13:8085/local/ar-s/SSC1/mono.m3u8?md5=I85AAnRk4e1xOgjRjIgw1g&expires=1767440096&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, STARZPLAY 1
-http://45.155.226.136:8085/local/ar-s/StarzPlay-1/mono.m3u8?md5=dHNbsJzI5tMPryTOcoke9g&expires=1767440095&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, STARZPLAY 2
-http://154.6.189.162:8085/local/ar-s/StarzPlay-2/mono.m3u8?md5=zvwhovJ9DXdKTHDlHJyqkA&expires=1767440092&type=a1&info=12d7087e0000630d
+http://154.6.189.163:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=TOh0NGiNWjl-dqjb6qqyeA&expires=1767481389&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1, BEIN SP MAX 1 4K EX
-http://103.163.132.12:8085/ssn/ar-s/bein-sp-max-1-4k-ex/mono.m3u8?md5=64HDaMKVB6jiucDnORm2jQ&expires=1767440091&type=a1&info=12d7087e0000630d
+http://154.6.189.162:8085/ssn/ar-s/bein-sp-max-1-4k-ex/mono.m3u8?md5=CvuUQZs0fJ4BtTrBouw_uQ&expires=1767481470&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1, BEIN SP 2 H265 EXTENDED
-http://45.155.226.147:8085/ssn/ar-s/bein-sp-2-H265-extended/mono.m3u8?md5=sVaRS_mW9ZleGmxGOEwJpA&expires=1767440090&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, BEIN SP 3 H265 EXTENDED
-http://45.155.226.133:8085/ssn/ar-s/bein-sp-3-H265-extended/mono.m3u8?md5=KqX-J8aYrv2M3fmWtvHCRg&expires=1767440088&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, BEIN SP 4 H265 EXTENDED
-http://45.155.226.138:8085/ssn/ar-s/bein-sp-4-H265-extended/mono.m3u8?md5=NzeDwmizdljdHCtDvP4uxA&expires=1767440086&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1, BEIN SP 5 H265 EXTENDED
-http://103.163.132.13:8085/ssn/ar-s/bein-sp-5-H265-extended/mono.m3u8?md5=nrlYxj_VX3mwPb6bA6DXkw&expires=1767440085&type=a1&info=12d7087e0000630d
+#EXTINF:-1, BEIN P 8 H265 EXTENDED
+http://154.6.189.161:8085/ssn/ar-s/bein-p-8-H265-extended/mono.m3u8?md5=vJjcITc8XYwFKDpypYGsEA&expires=1767481468&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1, BEIN SP 6 H265 EXTENDED
-http://103.163.132.13:8085/ssn/ar-s/bein-sp-6-H265-extended/mono.m3u8?md5=dpX_3spr6DxgQbv7n05uUw&expires=1767440083&type=a1&info=12d7087e0000630d
+http://45.155.226.139:8085/ssn/ar-s/bein-sp-6-H265-extended/mono.m3u8?md5=alDLS_iUnUtp_Wog9rhTSw&expires=1767481467&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, BEIN SP 5 H265 EXTENDED
+http://154.6.189.162:8085/ssn/ar-s/bein-sp-5-H265-extended/mono.m3u8?md5=fG1tYcROTVDOQ00E3VJIUg&expires=1767481464&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, BEIN SP 4 H265 EXTENDED
+http://45.155.226.133:8085/ssn/ar-s/bein-sp-4-H265-extended/mono.m3u8?md5=V_p9Py82Jkzy5Z30RXH_BQ&expires=1767481464&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, BEIN SP 3 H265 EXTENDED
+http://103.163.132.13:8085/ssn/ar-s/bein-sp-3-H265-extended/mono.m3u8?md5=cVhGWWLIi4LR7WkEas8uwA&expires=1767481463&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, BEIN SP 2 H265 EXTENDED
+http://45.155.226.138:8085/ssn/ar-s/bein-sp-2-H265-extended/mono.m3u8?md5=HVtVQVUp7_VeiIo9WWjONg&expires=1767481462&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, BEIN SP MAX 1 4K EX
+http://45.155.226.136:8085/ssn/ar-s/bein-sp-max-1-4k-ex/mono.m3u8?md5=s1gKAIXqQCm0t0j3tr-qUw&expires=1767481462&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, STARZPLAY 2
+http://103.163.132.12:8085/local/ar-s/StarzPlay-2/mono.m3u8?md5=GexvbVSyMCGn6VH3xrkTtQ&expires=1767481459&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, STARZPLAY 1
+http://45.155.226.136:8085/local/ar-s/StarzPlay-1/mono.m3u8?md5=SLSIwC_M0QZMFGlxwQXU9A&expires=1767481458&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, SSC1
+http://103.163.132.13:8085/local/ar-s/SSC1/mono.m3u8?md5=UcEZ1rfzvxSi837F496GWg&expires=1767481458&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL GOAL SPORT 1 HD H265
+http://45.155.226.147:8085/local/ku/local-Goal-Sport-1-HD-H265/mono.m3u8?md5=ge04oSA4ll2Oau0qyRpFzw&expires=1767481457&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASOSPORT
+http://154.6.189.161:8085/local/ku/local-AsoSport/mono.m3u8?md5=ikqBT5G66F3kBLdaJVObLQ&expires=1767481456&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL KURDISTANSPORT
+http://154.6.189.162:8085/local/ku/local-KurdistanSport/mono.m3u8?md5=CdmGmM3f39GYHCGvUCHalg&expires=1767481454&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, ALSHARQIYA NEWS
+http://154.6.189.163:8085/arabic/ar/AlSharqiya-News/mono.m3u8?md5=b9B5QJFn3WpMS-kk5yUIMg&expires=1767481453&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, RT ARAB
+http://45.155.226.136:8085/arabic/ar/RT-Arab/mono.m3u8?md5=VPisNvRoGvGFouYAzpclFg&expires=1767481452&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, JAZERA HD
+http://154.6.189.163:8085/arabic/ar/jazera-hd/mono.m3u8?md5=sS9l_pIXM2ZKoyboQJPD9Q&expires=1767481452&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, AL ARABIYA HADATH
+http://103.163.132.13:8085/arabic/ar/Al-Arabiya-Hadath/mono.m3u8?md5=c6aD7pDQrzXsi4YmYEvwAA&expires=1767481451&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, SPI KIDS
+http://45.155.226.133:8085/baghdad/ku/spi-kids/mono.m3u8?md5=PSQqDXO5v2mcGFCLmiHVBg&expires=1767481449&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, SPIHD
+http://103.163.132.13:8085/baghdad/live/SPIHD/mono.m3u8?md5=p1dE1E5fmExFlRuNC2INWA&expires=1767481448&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, ZAGROS
+http://103.163.132.12:8085/kurdish/ku/Zagros/mono.m3u8?md5=Kb64P3jJG-g8rOrpdN5EPg&expires=1767481447&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LIVE NUBAR TV
+http://45.155.226.133:8085/baghdad/ku/Live-NUBAR-TV/mono.m3u8?md5=bTk_Ayu5JTKncj71HXIDFA&expires=1767481447&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL DASNYA MUSIC HD
+http://154.6.189.162:8085/kurdish/ku/local-Dasnya-Music-HD/mono.m3u8?md5=2IqkVi1bCqvvTkQy8vEUjA&expires=1767481446&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL DASNYA KIDS HD
+http://154.6.189.163:8085/kurdish/ku/local-Dasnya-Kids-HD/mono.m3u8?md5=6pv8T7f03Jw6UewwwdI0pA&expires=1767481444&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL DASNYAHD
+http://45.155.226.133:8085/kurdish/ku/local-DasnyaHD/mono.m3u8?md5=knFX5XQDW4qYCvl_H8IUiA&expires=1767481443&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL DUHOK SPORT
+http://103.163.132.13:8085/local/ku/local-Duhok-Sport/mono.m3u8?md5=pC7g-S5XosBvOwjSFWU76w&expires=1767481442&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL DUHOK TV
+http://154.6.189.162:8085/kurdish/ku/Local-Duhok-TV/mono.m3u8?md5=K0NWCuB5jfDExX6OHpybXA&expires=1767481441&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, QALLAM TV H265
+http://45.155.226.133:8085/kurdish/ku/Qallam-TV-h265/mono.m3u8?md5=qQ7e88HOwMSVFhuDPaDH8A&expires=1767481441&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, QALLAM AYNI H265
+http://45.155.226.138:8085/kurdish/ku/Qallam-Ayni-h265/mono.m3u8?md5=3_ODgTsctzOPQZ9wL_CeOw&expires=1767481438&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, TURKMENELI
+http://154.6.189.161:8085/kurdish/ar/Turkmeneli/mono.m3u8?md5=Nm5mZBTRgfqLvR4DJ2dMHw&expires=1767481438&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, SAHAR KURDISH
+http://45.155.226.139:8085/kurdish/ku/Sahar-Kurdish/mono.m3u8?md5=gS6SERM72fluonKRLjKA2A&expires=1767481437&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL DERWAZE MUSIC HD H265
+http://45.155.226.136:8085/kurdish/ku/local-Derwaze-Music-HD-H265/mono.m3u8?md5=KMkJXqNe0iFQu6giU_B4-g&expires=1767481436&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL DERWAZE HD H265
+http://154.6.189.162:8085/kurdish/ku/Local-Derwaze-HD-H265/mono.m3u8?md5=TJR3JcGmbdduDBpsyMQSEg&expires=1767481436&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, ONE H265
+http://154.6.189.161:8085/kurdish/ku/ONE-h265/mono.m3u8?md5=GyKhm8wOaec3SWWjiR81Zw&expires=1767481433&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ROZH HD H265
+http://45.155.226.147:8085/kurdish/ku/local-rozh-hd-H265/mono.m3u8?md5=5sMQ_TqhXa5UURoiiPhh7w&expires=1767481432&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ALA TV H265
+http://45.155.226.138:8085/kurdish/ku/local-ALA-TV-H265/mono.m3u8?md5=fB7bwkNi_8t7BwqjnfPcSQ&expires=1767481432&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, KIRKUK TV
+http://103.163.132.12:8085/kurdish/ku/Kirkuk-TV/mono.m3u8?md5=kIs-yIamwEZwgJAa8qGXNg&expires=1767481431&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL CIHAN HD H265
+http://154.6.189.162:8085/kurdish/ku/local-Cihan-HD-H265/mono.m3u8?md5=JVRcmClezkniFL6pZQbykQ&expires=1767481428&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ESTA HD H265
+http://103.163.132.12:8085/kurdish/ku/local-Esta-hd-H265/mono.m3u8?md5=cgt62bgMRl3W9k5wqkAZ7w&expires=1767481427&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL BABOLLY H265
+http://154.6.189.163:8085/kurdish/ku/Local-babolly-H265/mono.m3u8?md5=VclwoBDIPnnT8aKuTeEzhg&expires=1767481426&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ZNAR TV H265
+http://45.155.226.133:8085/kurdish/ku/Local-Znar-TV-H265/mono.m3u8?md5=OakX0lK98TMWbF0djHIXyw&expires=1767481425&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, BMCHD
+http://45.155.226.133:8085/baghdad/live/bmchd/mono.m3u8?md5=TZfB2l6hMIpP99Lf1tIEUw&expires=1767481423&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL KHAK HD
+http://45.155.226.147:8085/kurdish/ku/Local-Khak-HD/mono.m3u8?md5=zfoADChRiDnAvpC9B-ZGig&expires=1767481422&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL AVAR H265
+http://45.155.226.139:8085/kurdish/ku/local-Avar-h265/mono.m3u8?md5=ygnKFMVFW5_nsow5qxZKHQ&expires=1767481421&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL QELLAT TV H265
+http://45.155.226.133:8085/kurdish/ku/local-Qellat-Tv-H265/mono.m3u8?md5=aKQZI7Uo7s5J5j5mKhB4sA&expires=1767481420&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL EFFECT TV H265
+http://154.6.189.162:8085/kurdish/ku/Local-Effect-TV-H265/mono.m3u8?md5=wDPnJpchM9gSHkPEIsnNcg&expires=1767481420&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, AZADI H265
+http://45.155.226.133:8085/kurdish/ku/azadi-h265/mono.m3u8?md5=RQ1E-r8tY7cQ6RpN0j636A&expires=1767481417&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL BINAR HD H265
+http://154.6.189.161:8085/kurdish/ku/Local-Binar-HD-H265/mono.m3u8?md5=KJgJ3Q6EcT4Lq5sPWTpP9w&expires=1767481417&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, BASK H265
+http://154.6.189.161:8085/kurdish/ku/Bask-h265/mono.m3u8?md5=Q2EfHJCOchZDayOq6R86uQ&expires=1767481416&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, AMOZHGARY
+http://154.6.189.163:8085/kurdish/ku/Amozhgary/mono.m3u8?md5=cEcqrZriUdvasVIZOgIJaA&expires=1767481415&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, BANGAWAZ
+http://154.6.189.162:8085/kurdish/ku/Bangawaz/mono.m3u8?md5=Yx6-_clCbyZGWbk7fGieDA&expires=1767481415&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASMAN HD H265
+http://45.155.226.138:8085/kurdish/ku/Local-Asman-HD-H265/mono.m3u8?md5=lEJfeZeHaQqDxzdXPG3rRA&expires=1767481412&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LIVE MIHRAB TV
+http://103.163.132.12:8085/kurdish/ku/Live-Mihrab-TV/mono.m3u8?md5=ay3xwnmEaYY44vHwuHKevg&expires=1767481412&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL SRUSHT H265
+http://45.155.226.147:8085/kurdish/ku/local-Srusht-H265/mono.m3u8?md5=RpM4eD2L3vKJR_31pUvcYw&expires=1767481411&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL KOMAL HD H265
+http://103.163.132.13:8085/kurdish/ku/local-Komal-HD-H265/mono.m3u8?md5=HiJiByfCRbFku_tIs1JSAA&expires=1767481410&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL JUDY H265
+http://103.163.132.13:8085/kurdish/ku/local-Judy-H265/mono.m3u8?md5=TRsY9DDjefG9fkfwozvr0w&expires=1767481409&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL TASAWF HD
+http://103.163.132.13:8085/kurdish/ku/local-Tasawf-HD/mono.m3u8?md5=P4Ggp2f8wXhFCbJ2qENHpA&expires=1767481407&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, QURAAN SUNNAH
+http://45.155.226.147:8085/arabic/ar/Quraan-Sunnah/mono.m3u8?md5=QEGsxN9WPXthax6Fe-oIAw&expires=1767481406&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, SAUDI QURAAN
+http://103.163.132.13:8085/arabic/ar/Saudi-Quraan/mono.m3u8?md5=BxS0P5131CRqiq8lrZToMQ&expires=1767481406&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCA SADA H265
+http://45.155.226.133:8085/kurdish/ku/loca-Sada-h265/mono.m3u8?md5=iBPzeH2Ne9VgvAQVp0wdAg&expires=1767481405&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ZHYAR HD H265
+http://154.6.189.162:8085/kurdish/ku/local-Zhyar-HD-H265/mono.m3u8?md5=M6BvwDQzQmzAMcmRhDjyTw&expires=1767481404&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, CAMBRIDGE TV
+http://154.6.189.163:8085/kurdish/ku/Cambridge-TV/mono.m3u8?md5=El2DLNvI5A7JpK4UuIBxFg&expires=1767481402&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL PARWARDAE HAWLER H265
+http://154.6.189.161:8085/kurdish/ku/local-Parwardae-Hawler-h265/mono.m3u8?md5=fqddFmx4_t6Hx8qlRvjHvA&expires=1767481401&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, PELISTANK H265
+http://154.6.189.162:8085/kurdish/ku/Pelistank-h265/mono.m3u8?md5=iJUu4Nnb1vfjVsnRF2eGCw&expires=1767481400&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL OSCAR HD H265
+http://45.155.226.136:8085/kurdish/ku/local-Oscar-HD-H265/mono.m3u8?md5=tgh5C5cJfr3Z1Va5nnObhQ&expires=1767481400&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, 4 ANIME H265
+http://103.163.132.13:8085/kurdish/ku/4-Anime-h265/mono.m3u8?md5=HsWsI-umZnHnxhln-ogdwA&expires=1767481399&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL KIDCO HD H265
+http://45.155.226.133:8085/kurdish/ku/local-Kidco-HD-H265/mono.m3u8?md5=YTIXaZtDCavYYPzO7mnOIg&expires=1767481397&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL JOJO MAMA HD H265
+http://154.6.189.161:8085/kurdish/ku/local-Jojo-Mama-HD-H265/mono.m3u8?md5=zw0u2Jqx2urCghduwcIlng&expires=1767481396&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL FIRST HD H265
+http://45.155.226.133:8085/kurdish/ku/Local-First-HD-H265/mono.m3u8?md5=3FmAT0eWM-E9e1yb6gbiTw&expires=1767481395&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, ABAXCHA
+http://45.155.226.133:8085/baghdad/live/abaxcha/mono.m3u8?md5=_c-ys3p6bxJjEF1HOkqKRg&expires=1767481394&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL AFARIN HD
+http://154.6.189.161:8085/kurdish/ku/local-Afarin-HD/mono.m3u8?md5=4fNXWBsIa8OlDQtcn-mHWA&expires=1767481394&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL RENG KIDSH265
+http://154.6.189.161:8085/kurdish/ku/local-Reng-kidsH265/mono.m3u8?md5=cFtZv2QfU4ogXeH2igolDg&expires=1767481391&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL RANG SPORT
+http://154.6.189.162:8085/local/ku/Local-Rang-Sport/mono.m3u8?md5=QjZOeTo6TtRvwGOa86Ws9g&expires=1767481391&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL RANG DOCUMENTARY
+http://103.163.132.13:8085/kurdish/ku/local-Rang-Documentary/mono.m3u8?md5=1-z7vzQTdxD5Vh79DWDjQg&expires=1767481390&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL RENG HD H265
+http://154.6.189.162:8085/kurdish/ku/local-Reng-HD-H265/mono.m3u8?md5=Ygr-gAYTRxqgPgaEjb6I_A&expires=1767481389&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, NRT 4 H265
+http://103.163.132.13:8085/kurdish/ku/NRT-4-h265/mono.m3u8?md5=9fB5vaeRIiErywWmza39Pg&expires=1767481386&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ARO FAMILY
+http://154.6.189.161:8085/kurdish/ku/local-Aro-Family/mono.m3u8?md5=nu1BTlrwTz3BsGvVr2J6-w&expires=1767481383&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL NIGA MOVIES
+http://45.155.226.136:8085/kurdish/ku/local-Niga-Movies/mono.m3u8?md5=IXLaupuS1dmQ7YW2rcOvTQ&expires=1767481381&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL NIGA KIDS H265
+http://103.163.132.12:8085/kurdish/ku/local-NIGA-KIDS-H265/mono.m3u8?md5=En3VZkkN0mkv2eakWunQVg&expires=1767481380&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL NIGA TV H265
+http://45.155.226.133:8085/kurdish/ku/local-Niga-tv-H265/mono.m3u8?md5=TSUL-k0qZYkTiEvtFTUTnw&expires=1767481379&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASTERS SPORT 2 HD H265
+http://45.155.226.136:8085/kurdish/ku/local-Asters-Sport-2-HD-H265/mono.m3u8?md5=bGEVuhEbM30Zbnquj-biUQ&expires=1767481379&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASTERS SPORT 1 HD H265
+http://103.163.132.13:8085/local/ku/local-Asters-Sport-1-HD-H265/mono.m3u8?md5=P3r1eioDY-96X26GaUx7PA&expires=1767481378&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASTERA DOCUMEN H265
+http://45.155.226.138:8085/kurdish/ku/local-Astera-Documen-H265/mono.m3u8?md5=efJu-qBHF6HsDG1oAi3OmQ&expires=1767481376&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASTERA FOLCLOR H265
+http://45.155.226.147:8085/kurdish/ku/local-Astera-Folclor-H265/mono.m3u8?md5=WGh_iY3-UhnLygjPU3EQPw&expires=1767481375&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASTERA BABY H265
+http://45.155.226.136:8085/kurdish/ku/local-Astera-Baby-H265/mono.m3u8?md5=v08I931JUfXHDq6JCXXEow&expires=1767481374&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASTERA SHOW HD H265
+http://45.155.226.138:8085/kurdish/ku/local-Astera-Show-HD-H265/mono.m3u8?md5=YRoRcwmH4s85z6cLh8oq9w&expires=1767481374&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASTERA MOVIES HD H265
+http://45.155.226.133:8085/kurdish/ku/local-Astera-Movies-HD-H265/mono.m3u8?md5=8qIO3eqI9AaGY_NcptAiGw&expires=1767481373&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ASTERA H265
+http://154.6.189.163:8085/kurdish/ku/local-Astera-H265/mono.m3u8?md5=XuLRjqx7Z36v2rW7yZAxSw&expires=1767481370&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL NEWLINE SPORT H265
+http://103.163.132.13:8085/local/ku/local-Newline-Sport-H265/mono.m3u8?md5=usHjirsnQZAsyMbujFyy3g&expires=1767481370&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL NEWLINE BOLYWOOD H265
+http://154.6.189.162:8085/kurdish/ku/local-Newline-Bolywood-H265/mono.m3u8?md5=4Oeac4Udtf1Hp5WdJANrbg&expires=1767481369&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL NEWLINE KIDS H265
+http://45.155.226.136:8085/kurdish/ku/local-Newline-Kids-H265/mono.m3u8?md5=pJLgIREye5Lyan1UMJwsjA&expires=1767481368&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL NEWLINE DRAMA H265
+http://45.155.226.138:8085/kurdish/ku/local-Newline-Drama-H265/mono.m3u8?md5=IASi95wMXnklRFCsasJIUA&expires=1767481366&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL NEWLINE H265
+http://45.155.226.136:8085/kurdish/ku/local-NewLine-H265/mono.m3u8?md5=8Emrxvs8ebAGVMI848ScfQ&expires=1767481364&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, KURDMAX MUSIC H265
+http://45.155.226.136:8085/kurdish/ku/KurdMax-Music-H265/mono.m3u8?md5=ZJt87SU4PcTp2uPsfbWp8A&expires=1767481363&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, KURDMAX SHOW TV H265
+http://45.155.226.147:8085/kurdish/ku/KurdMax-Show-TV-h265/mono.m3u8?md5=uUGxqhq6bHpcUGWrp4g2Pw&expires=1767481360&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL KURDMAX HD H265
+http://45.155.226.147:8085/kurdish/ku/Local-KURDMAX-HD-H265/mono.m3u8?md5=5YjWDJs_Hy9cqGclsXHKEw&expires=1767481359&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL DIMAN HD H265
+http://45.155.226.139:8085/kurdish/ku/local-Diman-HD-H265/mono.m3u8?md5=AJ-ET6g0FNxu3-Ncd6E4qQ&expires=1767481359&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ZED PLUSE H265
+http://103.163.132.13:8085/kurdish/ku/Local-Zed-pluse-H265/mono.m3u8?md5=TkXKOkyqWeH5G1GFPbY4qA&expires=1767481358&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ZED HD H265
+http://45.155.226.133:8085/kurdish/ku/local-ZED-HD-H265/mono.m3u8?md5=1U7UJosIzzUOP-M5cZP7Qw&expires=1767481357&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, KALAPUR H265
+http://45.155.226.138:8085/kurdish/ku/Kalapur-h265/mono.m3u8?md5=DBLiu4TCist35idvQfHjXQ&expires=1767481355&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL RASAN H265
+http://45.155.226.136:8085/kurdish/ku/local-Rasan-H265/mono.m3u8?md5=qS26qX7IaZ3tFKeXdO8VPA&expires=1767481354&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL NISHTMANIMN H265
+http://103.163.132.12:8085/kurdish/ku/local-Nishtmanimn-H265/mono.m3u8?md5=CPIqDIu0PdW3eDgbEFXbJw&expires=1767481353&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, WAAR TV
+http://45.155.226.147:8085/kurdish/ku/Waar-tv/mono.m3u8?md5=3wsMKakBEwCcF6ZIfJBQtQ&expires=1767481353&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, PAYAM
+http://154.6.189.163:8085/kurdish/ku/Payam/mono.m3u8?md5=sZJ1MAg0RLDScvJ3AWmmWA&expires=1767481352&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, GALI KURDISTAN
+http://45.155.226.147:8085/kurdish/ku/Gali-Kurdistan/mono.m3u8?md5=E9xnpzx8wi-2OV51z-gdCA&expires=1767481350&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL U2 TV H265
+http://45.155.226.139:8085/kurdish/ku/local-U2-TV-H265/mono.m3u8?md5=ed1pBKOlSIiZLu7aPHZpAA&expires=1767481349&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL UTV HD H265
+http://45.155.226.139:8085/kurdish/ku/local-UTV-HD-H265/mono.m3u8?md5=6nGFwzK8zIt-y7PBuv522g&expires=1767481348&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL SPEDA DRAMA H265
+http://45.155.226.136:8085/kurdish/ku/local-SPEDA-DRAMA-H265/mono.m3u8?md5=Xwza7FBNHXO-yjVvJBdlkg&expires=1767481348&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, SPEDA
+http://103.163.132.12:8085/kurdish/ku/Speda/mono.m3u8?md5=5CF24MxJhxBLammBlMHqUQ&expires=1767481347&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, NRT HD H265
+http://154.6.189.161:8085/kurdish/ku/NRT-Hd-H265/mono.m3u8?md5=rSJHD2YGOWDpYXgnNq6UOg&expires=1767481344&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, CHANNEL 8 H265
+http://103.163.132.13:8085/kurdish/ku/Channel-8-h265/mono.m3u8?md5=XW35TrAq1BaBNbX0N3k3CQ&expires=1767481344&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, KURDSAT NEWS HD H265
+http://154.6.189.163:8085/kurdish/ku/Kurdsat-News-HD-h265/mono.m3u8?md5=PQrkdry5HBMVvS-aBayQjg&expires=1767481343&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, KURDSAT HD H265
+http://45.155.226.138:8085/kurdish/ku/Kurdsat-HD-h265/mono.m3u8?md5=e5Z2Fa7N-qoQO_Q8L8gQmA&expires=1767481342&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, AVA TV HD
+http://45.155.226.138:8085/kurdish/ku/AVA-TV-HD/mono.m3u8?md5=aA96uorzVw0iP-By_TqIbA&expires=1767481339&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, KURDISTAN
+http://103.163.132.13:8085/kurdish/ku/Kurdistan/mono.m3u8?md5=_rmYP1Iu1_WpKSAEKz9Nww&expires=1767481338&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, RUDAW HD H265
+http://154.6.189.161:8085/kurdish/ku/Rudaw-hd-h265/mono.m3u8?md5=EEhV7X8eQOa_uwFY3qozKA&expires=1767481338&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, K24 DOCUMENTARY H265
+http://154.6.189.162:8085/kurdish/ku/K24-Documentary-H265/mono.m3u8?md5=n7ntO-UsKHmUcoBxH4DkfQ&expires=1767481337&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, K24 H265
+http://45.155.226.133:8085/kurdish/ku/K24-h265/mono.m3u8?md5=4qqAsRuk0MCpDXrXDQyLfg&expires=1767481336&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ISTAR KIDS H265
+http://45.155.226.136:8085/kurdish/ku/local-ISTAR-Kids-H265/mono.m3u8?md5=KS4pcaNVzqEx-n7Ctc1jSQ&expires=1767481334&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ISTAR FOLKLOR H265
+http://154.6.189.161:8085/kurdish/ku/local-ISTAR-Folklor-H265/mono.m3u8?md5=obk29ITa6HYRM4jH9FS6uA&expires=1767481333&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ISTAR MOVIES H265
+http://45.155.226.133:8085/kurdish/ku/local-ISTAR-Movies-h265/mono.m3u8?md5=uvuhesyr6b7xlc82_gx9Og&expires=1767481333&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1, LOCAL ISTAR MEDIA HD H265
+http://45.155.226.138:8085/kurdish/ku/local-ISTAR-Media-HD-h265/mono.m3u8?md5=zpNsvvGi1rWCLXXo5To_Rw&expires=1767481332&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1, LOCAL ISTAR QURAN H265
-http://103.163.132.12:8085/kurdish/ku/local-Istar-Quran-H265/mono.m3u8?md5=Z1kRjOmwPxFy0euJ8Aqavg&expires=1767440070&type=a1&info=12d7087e0000630d
+http://103.163.132.13:8085/kurdish/ku/local-Istar-Quran-H265/mono.m3u8?md5=EC0HVesl6c5OyHt-o_-95g&expires=1767481331&type=a1&info=12d7087e0000630d
 

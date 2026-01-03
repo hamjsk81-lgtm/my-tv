@@ -65,7 +65,7 @@ http://45.155.226.133:8085/baghdad/ku/spi-kids/mono.m3u8?md5=pYUKbPGJoSPScOZZOyb
 #EXTINF:-1 tvg-logo="",SPIHD
 http://154.6.189.161:8085/baghdad/live/SPIHD/mono.m3u8?md5=6BF81flzhBIcuiA7PC9NHA&expires=1767550633&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="",ZAGROS
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/zagros.png",ZAGROS
 http://45.155.226.139:8085/kurdish/ku/Zagros/mono.m3u8?md5=7pFBjt0HTIK2THFbkrNZ7A&expires=1767550632&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="",LIVE NUBAR TV

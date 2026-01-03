@@ -350,10 +350,10 @@ http://154.6.189.163:8085/kurdish/ku/local-U2-TV-H265/mono.m3u8?md5=rCso8jK_Zelo
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/utvHAWLER.png",LOCAL-UTV-HD-H265
 http://45.155.226.133:8085/kurdish/ku/local-UTV-HD-H265/mono.m3u8?md5=qeYd7uh3fZ9JCKD_P9vsfw&expires=1767550441&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1,LOCAL-SPEDA-DRAMA-H265
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/SPEDADRAMA.png",LOCAL-SPEDA-DRAMA-H265
 http://154.6.189.161:8085/kurdish/ku/local-SPEDA-DRAMA-H265/mono.m3u8?md5=35hh9cVA0PYOwbeEpF2WQA&expires=1767550440&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1,SPEDA
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/spedatv.png",SPEDA
 http://45.155.226.138:8085/kurdish/ku/Speda/mono.m3u8?md5=UPXGS671uV9VSUjmaJC-FA&expires=1767550439&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nrt.png",NRT-HD-H265

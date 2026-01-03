@@ -368,7 +368,7 @@ http://45.155.226.138:8085/kurdish/ku/Kurdsat-News-HD-h265/mono.m3u8?md5=YKUKPOC
 #EXTINF:-1,KURDSAT-HD-H265
 http://154.6.189.162:8085/kurdish/ku/Kurdsat-HD-h265/mono.m3u8?md5=5CChSbZE2QkiaceiqFA8_Q&expires=1767550430&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="ava-sport:http://classicvod.zinamedia.net/file/Flags/streams/ku/avasport.png",AVA SPORT
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/avasport.png",AVA SPORT
 http://45.155.226.147:8085/local/ku/ava-sport-h265/mono.m3u8?md5=v3b_6RaUK49GuhHqbjcHbg&expires=1767550428&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1,AVA-TV-HD

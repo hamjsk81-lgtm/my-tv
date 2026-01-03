@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-sport.png",LOCAL NEWLINE SPORT H265
+http://154.6.189.162:8085/local/ku/local-Newline-Sport-H265/mono.m3u8?md5=8BmRjLLeNAVMRVLnb0eesQ&expires=1767550483&type=a1&info=12d7087e0000630d
+
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline2.png",LOCAL NEWLINE2 H265
 http://45.155.226.138:8085/kurdish/ku/local-NewLine2-H265/mono.m3u8?md5=Y3avFQMbcVyF4LuwO-uu9w&expires=1767550473&type=a1&info=12d7087e0000630d
 

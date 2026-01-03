@@ -86,10 +86,10 @@ http://154.6.189.163:8085/local/ku/local-Duhok-Sport/mono.m3u8?md5=Eu1bV330Ux1b_
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Duhoktv.png",LOCAL DUHOK TV
 http://103.163.132.13:8085/kurdish/ku/Local-Duhok-TV/mono.m3u8?md5=wMAOKEaPEkAq99hoE9sfhw&expires=1767550620&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="",QALLAM TV H265
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/QallamTV.png",QALLAM TV H265
 http://103.163.132.12:8085/kurdish/ku/Qallam-TV-h265/mono.m3u8?md5=AKVePqwP8mG4d0xO0wL9gw&expires=1767550619&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="",QALLAM AYNI H265
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/QallamAyni.png",QALLAM AYNI H265
 http://154.6.189.163:8085/kurdish/ku/Qallam-Ayni-h265/mono.m3u8?md5=enGDfgSTVuFvkXosXN8Mrg&expires=1767550615&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="",TURKMENELI
@@ -101,7 +101,7 @@ http://45.155.226.138:8085/kurdish/ku/Sahar-Kurdish/mono.m3u8?md5=svkxHyTarF6Zhf
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/DERWAZEMUSIC.png",DERWAZE MUSIC HD H265
 http://45.155.226.139:8085/kurdish/ku/local-Derwaze-Music-HD-H265/mono.m3u8?md5=_NGhnnTguhfGOzYtnarp6w&expires=1767550610&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="",LOCAL DERWAZE HD H265
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/DERWAZEHD.png",LOCAL DERWAZE HD H265
 http://45.155.226.139:8085/kurdish/ku/Local-Derwaze-HD-H265/mono.m3u8?md5=3GiTUw1Z3MIDt6R4LvHt6g&expires=1767550609&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/oneworld.png",ONE H265
@@ -197,7 +197,7 @@ http://154.6.189.162:8085/kurdish/ku/local-Zhyar-HD-H265/mono.m3u8?md5=GSm3bjA5O
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/camedu1.png",CAMBRIDGE TV
 http://154.6.189.162:8085/kurdish/ku/Cambridge-TV/mono.m3u8?md5=GUoJwmteTCvsK840IyRfug&expires=1767550545&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="",PARWARDAE HAWLER H265
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/PARWARDAYIHAWLERHD.png",PARWARDAE HAWLER H265
 http://154.6.189.161:8085/kurdish/ku/local-Parwardae-Hawler-h265/mono.m3u8?md5=R6jAfOwrUG5q2mHa9FWEVg&expires=1767550543&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/pelistank.png",PELISTANK H265

@@ -338,7 +338,7 @@ http://154.6.189.162:8085/kurdish/ku/local-Nishtmanimn-H265/mono.m3u8?md5=3M_nlB
 #EXTINF:-1,WAAR-TV
 http://154.6.189.161:8085/kurdish/ku/Waar-tv/mono.m3u8?md5=QIWnG3SQpDoKqhAO1cBecg&expires=1767550450&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/payamtv.png",PAYAM
+#EXTINF:-1,PAYAM
 http://103.163.132.13:8085/kurdish/ku/Payam/mono.m3u8?md5=jw99OCaAKkY3KM_vtACoCg&expires=1767550448&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1,GALI-KURDISTAN
@@ -350,10 +350,10 @@ http://154.6.189.163:8085/kurdish/ku/local-U2-TV-H265/mono.m3u8?md5=rCso8jK_Zelo
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/utv.png",LOCAL-UTV-HD-H265
 http://45.155.226.133:8085/kurdish/ku/local-UTV-HD-H265/mono.m3u8?md5=qeYd7uh3fZ9JCKD_P9vsfw&expires=1767550441&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/SPEDADRAMA.png",LOCAL-SPEDA-DRAMA-H265
+#EXTINF:-1,LOCAL-SPEDA-DRAMA-H265
 http://154.6.189.161:8085/kurdish/ku/local-SPEDA-DRAMA-H265/mono.m3u8?md5=35hh9cVA0PYOwbeEpF2WQA&expires=1767550440&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/spedatv.png",SPEDA
+#EXTINF:-1,SPEDA
 http://45.155.226.138:8085/kurdish/ku/Speda/mono.m3u8?md5=UPXGS671uV9VSUjmaJC-FA&expires=1767550439&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nrt.png",NRT-HD-H265

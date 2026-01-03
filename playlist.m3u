@@ -383,7 +383,7 @@ http://154.6.189.162:8085/kurdish/ku/Rudaw-hd-h265/mono.m3u8?md5=9AUXJwp_EtLy0Sx
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/k24doc.png",K24 DOCUMENTARY H265
 http://154.6.189.162:8085/kurdish/ku/K24-Documentary-H265/mono.m3u8?md5=yai99MYJG_PS9tQqkIhQfg&expires=1767550420&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="",K24 H265
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/K24logo.png",K24 H265
 http://45.155.226.138:8085/kurdish/ku/K24-h265/mono.m3u8?md5=VWK3XjKe0_Ry_KfiLsHPWg&expires=1767550419&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ISTAR-KIDS.png",ISTAR KIDS H265

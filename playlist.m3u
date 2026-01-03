@@ -203,7 +203,7 @@ http://154.6.189.161:8085/kurdish/ku/local-Parwardae-Hawler-h265/mono.m3u8?md5=R
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/pelistank.png",PELISTANK H265
 http://45.155.226.136:8085/kurdish/ku/Pelistank-h265/mono.m3u8?md5=LapWNc0-N7VQqUBLvjHRFg&expires=1767550542&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="",OSCAR HD H265
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/oscartv.png",OSCAR HD H265
 http://45.155.226.139:8085/kurdish/ku/local-Oscar-HD-H265/mono.m3u8?md5=g8ZN8UgZePsRtf4EUG9Z7w&expires=1767550540&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="",4 ANIME H265

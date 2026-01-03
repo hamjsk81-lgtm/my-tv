@@ -362,7 +362,7 @@ http://154.6.189.161:8085/kurdish/ku/NRT-Hd-H265/mono.m3u8?md5=gDE1BF9-X-vpPx6do
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/CHANNEL-8.png",CHANNEL-8-H265
 http://45.155.226.139:8085/kurdish/ku/Channel-8-h265/mono.m3u8?md5=kP7E86JUPM3U8ylvft8WlA&expires=1767550433&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Kurdsat_HD.png",KURDSAT-NEWS-HD-H265
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/kurdsat-news.png",KURDSAT-NEWS-HD-H265
 http://45.155.226.138:8085/kurdish/ku/Kurdsat-News-HD-h265/mono.m3u8?md5=YKUKPOCo2ZyB7p1SU7LC4A&expires=1767550432&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Kurdsat_HD.png",KURDSAT-HD-H265

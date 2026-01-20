@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1, OK-TV Channel 1
+https://live.karwan.tv/speda-tv/index.mpd?token=d70b3a17c5b718fb4bb9ca80222365dcf3cf0de7-b5d72c72fc2e4f8f412cf73cb44c3e46-1768952120-1768941320&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 2
+https://live3.karwan.tv/newline-tv/index.mpd?token=cb0b9df0a56869eb65d4b0c468c29d1aa1c2ae5d-6e28a69172ac19549d40987cf1436210-1768952123-1768941323&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 3
+https://live3.karwan.tv/newline-tv-2/index.mpd?token=6772a69dd6a5e663ca9c50b061036bdf936b2513-b97d327770763996ed78469a555a4867-1768952120-1768941320&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 4
+https://live.karwan.tv/payam-tv/index.mpd?token=fbeef11f0ddf58b0522a8ae9d5c725c2df3b46f2-63f722bf9ec73d3d6ea4b917210dcf9a-1768952122-1768941322&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 5
+https://live3.karwan.tv/astera-documentary/index.mpd?token=9d4e5cf0caab16b187e134b6ea559757a62ecd5c-3e484f22e24c073c07b1f7305611697b-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 6
+https://live3.karwan.tv/astera-show/index.mpd?token=f0f09a90953bdf4c1045ad3e3b0f8ab1877322bc-69363930ed817768caad9259818ccf0d-1768952121-1768941321&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 7
+https://live3.karwan.tv/astera-culture/index.mpd?token=2681fb849867222db6d1e210b6be19c656bacd22-e27edb4545e3167bb2873b2005398e98-1768952122-1768941322&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 8
+https://live3.karwan.tv/qallam-tv/index.mpd?token=acd1fc2a6096233f13af6c46999fab278bcc4bdc-e76e0d75d570658acd4985b492fa4d5a-1768952123-1768941323&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 9
+https://live3.karwan.tv/qallam-geographic/index.mpd?token=bf7cd9e7e3b65ca862572e733283a366cdb09988-7426b676f2d849c596a09d1dc50f3d05-1768952123-1768941323&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 10
+https://live3.karwan.tv/qallam-kids/index.mpd?token=409be75aca56b192635cdc013be1ee3c74d1b0da-06647f77be3db6f1ea7c4cc883ccf76d-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 11
+https://live3.karwan.tv/ranya-tv/index.mpd?token=fc971e9ebd1f0df806ce583ad4e52124f470c12b-8b303459dc1a879c6d50acae8b5b7d83-1768952125-1768941325&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 12
+https://live3.karwan.tv/baboly-tv/index.mpd?token=226519a59c9d88bdeb2ae33e1ff5d0477fecc3ea-884fb95a264cc27c5344e2eb7aa9e34e-1768952123-1768941323&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 13
+https://live.karwan.tv/nrt-sport/index.mpd?token=47607be65bdd2dae679f3297e8cf529098030399-f1aca6720122b923ca257816f309e98c-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 14
+https://live3.karwan.tv/astera-sport/index.mpd?token=9a49aba19c73ededf52ca1ef948ad149f9192fc6-536609e0227d2ec5598ac4d2bd5dd867-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 15
+https://live.karwan.tv/ava-sport/index.mpd?token=6144de2392aa5b9a750aa8c0c731ab6498a1589d-49c78d3623584b65fba9c470738bf82c-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 16
+https://live3.karwan.tv/ld-sport-chek/index.mpd?token=54b9c5908891e886d2a8c26b9002bddac246f1be-b14d9887a421cff04d431e347fa9acc2-1768952125-1768941325&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 17
+https://live3.karwan.tv/aso-sport/index.mpd?token=f0faef00124126635d41a3e6b851bbd41ca8596c-e5fa05272764321e1c61aad58213e64e-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 18
+https://live3.karwan.tv/delal-sport/index.mpd?token=516bbf5f60f3641fba1f4408ca590d439f4f6898-652d15ad2931c58b553b401829813fbe-1768952125-1768941325&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 19
+https://live3.karwan.tv/duhok-tv-sport/index.mpd?token=0dfb16fce13fd234129d6dc5bcc91c1eb17a57c9-4757f50e8424333414d849bda53708d2-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 20
+https://live3.karwan.tv/aro-sport/index.mpd?token=b7b05419db71f76c91e353f7d5849e10bea79643-4b071e7248c9f0d76b219d00845c60ff-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 21
+https://live3.karwan.tv/zaxo-sport/index.mpd?token=84d8a5c921e379ac1dd384af4e792867acc00369-a940077d702016530ac4c1d9e14c7243-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 22
+https://live3.karwan.tv/zed-tv/index.mpd?token=bed9360d01614bc480573348ee3d432dcb74b7f1-fc0ca64644e99fe1145ed6581f17483e-1768952126-1768941326&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 23
+https://live3.karwan.tv/zed-tv-plus/index.mpd?token=2c54446b7ea748e898657adef832c79ff8b3c08b-ba776b03caf70231ba9e84a81a0a6d80-1768952127-1768941327&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 24
+https://live3.karwan.tv/newline-tv/index.mpd?token=a1ad61f829f2ad070d83e121ccb03847688dd90a-7c33984a930c9ee9cb138a39e2909243-1763757768-1763746968&remote=no_check_ip
+
+#EXTINF:-1, OK-TV Channel 25
+https://live.karwan.tv/speda-drama/index.mpd?token=ed4dada190370a10e08ed0525d89a0c2502d2091-0bd1d27a5ea0d42745bff0b0589209d5-1768952127-1768941327&remote=no_check_ip
+

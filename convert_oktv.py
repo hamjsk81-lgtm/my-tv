@@ -2,39 +2,38 @@ import requests
 import re
 
 def get_list():
-    source_url = "http://oktvtv.atwebpages.com/loadb.js"
-    try:
-        response = requests.get(source_url, timeout=10)
-        content = response.text
-        
-        # ئەمجارە دەگەڕێین بەدوای هەموو جۆرە لینکەکان (هەم MPD و هەم M3U8)
-        # کە لە ناو فایلی JS بەم شێوانە نووسراون
-        patterns = [
-            r'streamUrl\s*=\s*"(.*?)"',
-            r'url\s*:\s*"(.*?)"',
-            r'source\s*:\s*"(.*?)"'
-        ]
-        
-        all_links = []
-        for pattern in patterns:
-            found = re.findall(pattern, content)
-            all_links.extend(found)
-        
-        # لادانی ئەو لینکەانەی کە دووبارەن
-        unique_links = list(dict.fromkeys(all_links))
-        
-        m3u = "#EXTM3U\n"
-        for i, url in enumerate(unique_links):
-            # فلتەرکردنی ئەو لینکەانەی کە بەتاڵن یان تەنها کۆدێکی کورتن
-            if len(url) > 10 and (url.startswith('http') or url.startswith('https')):
-                m3u += f"#EXTINF:-1, OK-TV Channel {i+1}\n{url}\n\n"
-            
-        with open("oktv_list.m3u", "w", encoding="utf-8") as f:
-            f.write(m3u)
-        print(f"✅ سەرکەوتوو بوو! {len(unique_links)} لینک دۆزرایەوە.")
-        
-    except Exception as e:
-        print(f"❌ هەڵە: {e}")
+    # هەردوو سەرچاوەکە لێرە دادەنێین
+    sources = [
+        "http://oktvtv.atwebpages.com/load.js",   # ئەمە ١١٥ کەناڵە گشتییەکەیە
+        "http://oktvtv.atwebpages.com/loadb.js"  # ئەمە کەناڵە تایبەت و نوێیەکانە
+    ]
+    
+    all_unique_links = []
+    
+    for url in sources:
+        try:
+            response = requests.get(url, timeout=15)
+            content = response.text
+            # دۆزینەوەی هەموو ئەو لینکەانەی لە ناو " " یان ' ' دان
+            found_links = re.findall(r'"(https?://.*?)"', content)
+            all_unique_links.extend(found_links)
+        except:
+            print(f"نەتوانرا داتا لە {url} بهێنرێت")
+
+    # لادانی دووبارەکان
+    final_links = list(dict.fromkeys(all_unique_links))
+    
+    m3u_content = "#EXTM3U\n"
+    for i, link in enumerate(final_links):
+        # تەنها ئەو لینکەانە وەردەگرین کە فۆرماتی ڤیدیۆن
+        if ".m3u8" in link or ".mpd" in link or "/play/" in link:
+            # لێرەدا دەتوانیت ناوەکان دیاری بکەیت، بۆ ئێستا بە ژمارە دایان دەنێین
+            m3u_content += f"#EXTINF:-1, OK-TV Channel {i+1}\n{link}\n\n"
+
+    with open("oktv_list.m3u", "w", encoding="utf-8") as f:
+        f.write(m3u_content)
+    
+    print(f"✅ تەواو! کۆی گشتی {len(final_links)} لینک کۆکرایەوە.")
 
 if __name__ == "__main__":
     get_list()

@@ -1,39 +1,57 @@
 import requests
 import re
 
+def clean_name(url):
+    # دەرهێنانی ناو لە ناو لینکەکە
+    name = url.split('/')[-2] if '/' in url else "Unknown"
+    if "index.m3u8" in url or "playlist.m3u8" in url:
+        # هەوڵدان بۆ دۆزینەوەی ناوی پاکتر لە ناو بەشەکانی لینکەکە
+        parts = url.split('/')
+        for part in reversed(parts):
+            if part and not part.endswith('.m3u8') and not part.endswith('.smil'):
+                name = part
+                break
+    
+    # جوانکردنی ناوەکان (لادانی _ و - و گۆڕینی بۆ پیتی گەورە)
+    name = name.replace('_', ' ').replace('-', ' ').replace('HD', '').replace('live', '').strip()
+    return name.title()
+
 def get_list():
-    # هەردوو سەرچاوەکە لێرە دادەنێین
     sources = [
-        "http://oktvtv.atwebpages.com/load.js",   # ئەمە ١١٥ کەناڵە گشتییەکەیە
-        "http://oktvtv.atwebpages.com/loadb.js"  # ئەمە کەناڵە تایبەت و نوێیەکانە
+        "http://oktvtv.atwebpages.com/load.js",
+        "http://oktvtv.atwebpages.com/loadb.js"
     ]
     
-    all_unique_links = []
-    
+    m3u_content = "#EXTM3U\n"
+    seen_links = set()
+
     for url in sources:
         try:
             response = requests.get(url, timeout=15)
             content = response.text
-            # دۆزینەوەی هەموو ئەو لینکەانەی لە ناو " " یان ' ' دان
-            found_links = re.findall(r'"(https?://.*?)"', content)
-            all_unique_links.extend(found_links)
-        except:
-            print(f"نەتوانرا داتا لە {url} بهێنرێت")
-
-    # لادانی دووبارەکان
-    final_links = list(dict.fromkeys(all_unique_links))
-    
-    m3u_content = "#EXTM3U\n"
-    for i, link in enumerate(final_links):
-        # تەنها ئەو لینکەانە وەردەگرین کە فۆرماتی ڤیدیۆن
-        if ".m3u8" in link or ".mpd" in link or "/play/" in link:
-            # لێرەدا دەتوانیت ناوەکان دیاری بکەیت، بۆ ئێستا بە ژمارە دایان دەنێین
-            m3u_content += f"#EXTINF:-1, OK-TV Channel {i+1}\n{link}\n\n"
+            # دۆزینەوەی هەموو لینکەکان لە ناو کوتەیشنەکاندا
+            links = re.findall(r'"(https?://[^"]+)"', content)
+            
+            for link in links:
+                if link not in seen_links:
+                    if ".m3u8" in link or ".mpd" in link or ":8000/play/" in link:
+                        name = clean_name(link)
+                        # لۆگۆی گشتی بۆ ئەوەی لیستەکە جوانتر بێت
+                        logo = f"https://ui-avatars.com/api/?name={name}&background=random&color=fff"
+                        
+                        # چاککردنی هەندێک ناوی تایبەت بە دەستی
+                        if "channel8" in link.lower(): name = "Channel 8"
+                        elif "rudaw" in link.lower(): name = "Rudaw TV"
+                        elif "kurdsat" in link.lower(): name = "Kurdsat"
+                        
+                        m3u_content += f'#EXTINF:-1 tvg-logo="{logo}", {name}\n{link}\n\n'
+                        seen_links.add(link)
+        except Exception as e:
+            print(f"Error fetching {url}: {e}")
 
     with open("oktv_list.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_content)
-    
-    print(f"✅ تەواو! کۆی گشتی {len(final_links)} لینک کۆکرایەوە.")
+    print(f"✅ تەواو! {len(seen_links)} کەناڵ بە ناوەوە ئامادەکران.")
 
 if __name__ == "__main__":
     get_list()

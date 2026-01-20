@@ -1,433 +1,430 @@
 #EXTM3U
-#EXTINF:-1, OK-TV Channel 1
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Channel8 Kurdish&background=random&color=fff", Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 2
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
-#EXTINF:-1, OK-TV Channel 3
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 
-#EXTINF:-1, OK-TV Channel 4
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Gksat&background=random&color=fff", Gksat
 https://live.host247.net/gk/gksat/chunklist_w1387086520.m3u8
 
-#EXTINF:-1, OK-TV Channel 5
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Stream&background=random&color=fff", Stream
 https://live.kirkuklive.live/hls/stream/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 6
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=8218&background=random&color=fff", 8218
 https://media2.streambrothers.com:1936/8218/8218/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 7
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Shartv&background=random&color=fff", Shartv
 http://avrstream.com:1935/live/SHARTV/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Rudaw&background=random&color=fff", Rudaw TV
 https://hawezhd@svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 9
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Spedtvyusfstore&background=random&color=fff", Spedtvyusfstore
 https://live9.karwan.tv/Spedtvyusfstore/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 10
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Speddeamyusfstore&background=random&color=fff", Speddeamyusfstore
 https://live9.karwan.tv/Speddeamyusfstore/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 11
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
-#EXTINF:-1, OK-TV Channel 12
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Nrt&background=random&color=fff", Nrt
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 
-#EXTINF:-1, OK-TV Channel 13
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=3527542770279 Low&background=random&color=fff", 3527542770279 Low
 https://vsd123.okcdn.ru/hls/3527542770279.m3u8/sig/qudOjQDN2yA/expires/1768994986244/srcIp/62.201.240.87/urls/185.226.53.66/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_low/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 14
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Shows123&background=random&color=fff", Shows123
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 15
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ranyacity&background=random&color=fff", Ranyacity
 https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 16
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Qellat Tv&background=random&color=fff", Qellat Tv
 http://213.32.255.86:1935/live/Qellat_tv/hawezhd.m3u8
 
-#EXTINF:-1, OK-TV Channel 17
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Waarmedia&background=random&color=fff", Waarmedia
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 18
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Farmodatv&background=random&color=fff", Farmodatv
 http://avrstream.com:1935/live/FarmodaTV/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 19
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Emantv&background=random&color=fff", Emantv
 http://avrstream.com:1935/live/emantv/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 20
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Shnatv&background=random&color=fff", Shnatv
 http://shnatv.ddns.net:1935/live/shnatv/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 21
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Redtv&background=random&color=fff", Redtv
 http://avrstream.com:1935/live/REDTV/hawezhd.m3u8
 
-#EXTINF:-1, OK-TV Channel 22
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Imkhd&background=random&color=fff", Imkhd
 http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 23
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Baskhd&background=random&color=fff", Baskhd
 http://baskhd.ddns.net:40/live/baskhd/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 24
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Tracks V1A1&background=random&color=fff", Tracks V1A1
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, OK-TV Channel 25
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sadatv&background=random&color=fff", Sadatv
 http://sada-hd.ddns.net:40/live/sadatv/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 26
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Avartv&background=random&color=fff", Avartv
 http://avrstream.com:1935/live/AvarTv/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 27
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Kurds2211&background=random&color=fff", Kurds2211
 https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 28
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Derin&background=random&color=fff", Derin
 http://baskhd.ddns.net:40/live/Derin/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 29
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Barinfamily&background=random&color=fff", Barinfamily
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 30
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Barinmovies&background=random&color=fff", Barinmovies
 http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
 
-#EXTINF:-1, OK-TV Channel 31
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Kurd7&background=random&color=fff", Kurd7
 http://avrstream.com:1935/live/Kurd7HD/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 32
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ashtitv&background=random&color=fff", Ashtitv
 http://avrstream.com:1935/live/AshtiTV/chunklist_w1836984692.m3u8
 
-#EXTINF:-1, OK-TV Channel 33
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Esra2Hd Kamalblbas&background=random&color=fff", Esra2Hd Kamalblbas
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
 
-#EXTINF:-1, OK-TV Channel 34
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Stream&background=random&color=fff", Stream
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 35
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Stream&background=random&color=fff", Stream
 http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/hawezhd.m3u8
 
-#EXTINF:-1, OK-TV Channel 36
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Kidcohd&background=random&color=fff", Kidcohd
 http://avrstream.com:1935/live/kidcohd/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 37
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 38
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Spikids4K2025&background=random&color=fff", Spikids4K2025
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 
-#EXTINF:-1, OK-TV Channel 39
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 40
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=&background=random&color=fff", 
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 41
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Duhoktv&background=random&color=fff", Duhoktv
 http://duhok.badinan.xyz:1935/live/DuhokTV/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 42
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Eurokurd&background=random&color=fff", Eurokurd
 http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 43
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Tv Trtkurdi.Medya.Trt.Com.Tr&background=random&color=fff", Tv Trtkurdi.Medya.Trt.Com.Tr
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1, OK-TV Channel 44
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=3268334B&background=random&color=fff", 3268334B
 https://app-live.org/live/3268334b/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 45
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Bangawaztv&background=random&color=fff", Bangawaztv
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 46
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Nrt4Stream&background=random&color=fff", Nrt4Stream
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 
-#EXTINF:-1, OK-TV Channel 47
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=0&background=random&color=fff", 0
 https://stream.shams.tv/hls/0/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 48
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Mmnhdnews&background=random&color=fff", Mmnhdnews
 http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 49
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Mmnhdquran&background=random&color=fff", Mmnhdquran
 http://mmn.mypsx.net:1935/live/mmnhdquran/chunklist.m3u8
 
-#EXTINF:-1, OK-TV Channel 50
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Mmnhddocumentary&background=random&color=fff", Mmnhddocumentary
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 51
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Mmnhdmovies&background=random&color=fff", Mmnhdmovies
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
 
-#EXTINF:-1, OK-TV Channel 52
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Mmnhdkids&background=random&color=fff", Mmnhdkids
 http://mmn.mypsx.net:1935/live/mmnhdkids/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 53
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Mmnhddrama&background=random&color=fff", Mmnhddrama
 http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 54
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Mmnhdaction&background=random&color=fff", Mmnhdaction
 http://mmn.mypsx.net:1935/live/mmnhdaction/HawezHD.m3u8
 
-#EXTINF:-1, OK-TV Channel 55
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Khakhd&background=random&color=fff", Khakhd
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 56
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Music2402&background=random&color=fff", Music2402
 https://6476e46b58f91.streamlock.net/music/MUSIC2402/chunklist_w1888513023.m3u8
 
-#EXTINF:-1, OK-TV Channel 57
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
-#EXTINF:-1, OK-TV Channel 58
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Batifa&background=random&color=fff", Batifa
+https://6476e46b58f91.streamlock.net/liveTrans/batifa/chunklist_w632227207.m3u8
 
-#EXTINF:-1, OK-TV Channel 59
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Smil:Sp.Stream.Smil&background=random&color=fff", Smil:Sp.Stream.Smil
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
-#EXTINF:-1, OK-TV Channel 60
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=0965E4D7Deae49179172426Cbfb3Bc5E&background=random&color=fff", 0965E4D7Deae49179172426Cbfb3Bc5E
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 61
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Play&background=random&color=fff", Play
 http://213.57.91.138:8000/play/a05k
 
-#EXTINF:-1, OK-TV Channel 62
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=5D58265A862A476Dc7F97694Addb5Ded&background=random&color=fff", 5D58265A862A476Dc7F97694Addb5Ded
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 63
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=24F134F1Cd63Db9346439E96B86Ca6Ed&background=random&color=fff", 24F134F1Cd63Db9346439E96B86Ca6Ed
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 64
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ee6B000Cee0629411B666Ab26Cb13E9B&background=random&color=fff", Ee6B000Cee0629411B666Ab26Cb13E9B
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 65
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Play&background=random&color=fff", Play
 http://213.57.91.138:8000/play/a05l
 
-#EXTINF:-1, OK-TV Channel 66
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=546Eb40D7Dcf9A209255Dd2496903764&background=random&color=fff", 546Eb40D7Dcf9A209255Dd2496903764
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 67
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=B0B3A0E6750D4408Bb86D703D5Feffd1&background=random&color=fff", B0B3A0E6750D4408Bb86D703D5Feffd1
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 68
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=E38C44B1B43474E1C39Cb5B90203691E&background=random&color=fff", E38C44B1B43474E1C39Cb5B90203691E
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 69
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Alarabiapublish&background=random&color=fff", Alarabiapublish
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 70
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Alaraby Abr&background=random&color=fff", Alaraby Abr
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 71
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Tv Trtarabi.Medya.Trt.Com.Tr&background=random&color=fff", Tv Trtarabi.Medya.Trt.Com.Tr
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1, OK-TV Channel 72
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ott&background=random&color=fff", Ott
 https://stream.skynewsarabia.com/ott/ott.m3u8
 
-#EXTINF:-1, OK-TV Channel 73
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Rotana Aflam Plus&background=random&color=fff", Rotana Aflam Plus
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
 
-#EXTINF:-1, OK-TV Channel 74
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Roya Comedy&background=random&color=fff", Roya Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 75
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Drama&background=random&color=fff", Drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 76
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Roya Kitchen&background=random&color=fff", Roya Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 77
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Roya Kids&background=random&color=fff", Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 78
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Roya Kids Originals&background=random&color=fff", Roya Kids Originals
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 79
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=D8382Fb9Ab4B2307058F12C7Ea90Db54&background=random&color=fff", D8382Fb9Ab4B2307058F12C7Ea90Db54
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 80
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Rakutentv Eu Babysharktv&background=random&color=fff", Rakutentv Eu Babysharktv
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 81
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=C8D16110 566C 4E95 A1Df 55D175E9E201&background=random&color=fff", C8D16110 566C 4E95 A1Df 55D175E9E201
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
-#EXTINF:-1, OK-TV Channel 82
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Zoomoo Samsungau.Amagi.Tv&background=random&color=fff", Zoomoo Samsungau.Amagi.Tv
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 83
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Usa Nickelodeon&background=random&color=fff", Usa Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 84
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ani&background=random&color=fff", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 85
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Browser Hls8&background=random&color=fff", Browser Hls8
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 
-#EXTINF:-1, OK-TV Channel 86
-https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
-
-#EXTINF:-1, OK-TV Channel 87
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Sat7Kids.Smil&background=random&color=fff", Sat7Kids.Smil
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
-#EXTINF:-1, OK-TV Channel 88
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Nat Geo Wild&background=random&color=fff", Nat Geo Wild
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 89
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Amg00090 Blueantllc Lovenature Au Samsungau&background=random&color=fff", Amg00090 Blueantllc Lovenature Au Samsungau
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 90
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://ptravelhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 91
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Xtremaanimal&background=random&color=fff", Xtremaanimal
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 92
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://hls.4utv.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 93
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=3221226902&background=random&color=fff", 3221226902
 https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 94
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=&background=random&color=fff", 
 https://ncdn.telewebion.com/bushehr/live/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 95
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=&background=random&color=fff", 
 https://ncdn.telewebion.com/eshragh/live/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 96
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://fxtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 97
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://toonixhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 98
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://icnet1hls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 99
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://icnet2hls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 100
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://ic3hls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 101
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://live.presstv.ir/hls/ifilmfa.m3u8
 
-#EXTINF:-1, OK-TV Channel 102
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=&background=random&color=fff", 
 https://ncdn.telewebion.com/ilam/live/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 103
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=&background=random&color=fff", 
 https://ncdn.telewebion.com/sina/live/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 104
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=3221226879&background=random&color=fff", 3221226879
 https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 105
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Tintv&background=random&color=fff", Tintv
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 106
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=&background=random&color=fff", 
 https://ncdn.telewebion.com/nava/live/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 107
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://t2hls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 108
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://araxhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 109
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Hls&background=random&color=fff", Hls
 https://arkhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1, OK-TV Channel 110
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=&background=random&color=fff", 
 https://ncdn.telewebion.com/noor/live/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 111
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=&background=random&color=fff", 
 https://ncdn.telewebion.com/palestine/live/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 112
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Gusa Chefchampion&background=random&color=fff", Gusa Chefchampion
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 113
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Rakutentv Eu Gustotv&background=random&color=fff", Rakutentv Eu Gustotv
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 114
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=9110&background=random&color=fff", 9110
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 115
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Rakutenaa Tm Germany Rakuten Ger&background=random&color=fff", Rakutenaa Tm Germany Rakuten Ger
 https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
 
-#EXTINF:-1, OK-TV Channel 116
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Animalbox&background=random&color=fff", Animalbox
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
 
-#EXTINF:-1, OK-TV Channel 117
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Bein111&background=random&color=fff", Bein111
 http://109.123.245.192/bein111/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 118
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Avasport11&background=random&color=fff", Avasport11
 http://109.123.245.192/Avasport11/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 119
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Nrt2&background=random&color=fff", Nrt2
 http://109.123.245.192/Nrt2/index.m3u8
 
-#EXTINF:-1, OK-TV Channel 120
-https://live.karwan.tv/speda-tv/index.mpd?token=d70b3a17c5b718fb4bb9ca80222365dcf3cf0de7-b5d72c72fc2e4f8f412cf73cb44c3e46-1768952120-1768941320&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Speda Tv&background=random&color=fff", Speda Tv
+https://live.karwan.tv/speda-tv/index.mpd?token=4e104dc42ad56013618d0964ea1d7430092037c0-28c470ac7acb206de2b5236f95de0a6e-1768958911-1768948111&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 121
-https://live3.karwan.tv/newline-tv/index.mpd?token=cb0b9df0a56869eb65d4b0c468c29d1aa1c2ae5d-6e28a69172ac19549d40987cf1436210-1768952123-1768941323&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Newline Tv&background=random&color=fff", Newline Tv
+https://live3.karwan.tv/newline-tv/index.mpd?token=617ae74acf211501ffe29e39c947bcf2c17efdc1-82a8c1bd7aa049a85900b5ce60cd1dde-1768958911-1768948111&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 122
-https://live3.karwan.tv/newline-tv-2/index.mpd?token=6772a69dd6a5e663ca9c50b061036bdf936b2513-b97d327770763996ed78469a555a4867-1768952120-1768941320&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Newline Tv 2&background=random&color=fff", Newline Tv 2
+https://live3.karwan.tv/newline-tv-2/index.mpd?token=49979d9fed31682aa7a248af207a6ce9547d1184-e1601e20b9e9214b95df2da0beff1bef-1768958911-1768948111&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 123
-https://live.karwan.tv/payam-tv/index.mpd?token=fbeef11f0ddf58b0522a8ae9d5c725c2df3b46f2-63f722bf9ec73d3d6ea4b917210dcf9a-1768952122-1768941322&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Payam Tv&background=random&color=fff", Payam Tv
+https://live.karwan.tv/payam-tv/index.mpd?token=28e3cbf4b83526924229d56f012c9afdec947e51-1f2958a0573042c2ec0309d4484a4321-1768958912-1768948112&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 124
-https://live3.karwan.tv/astera-documentary/index.mpd?token=9d4e5cf0caab16b187e134b6ea559757a62ecd5c-3e484f22e24c073c07b1f7305611697b-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Astera Documentary&background=random&color=fff", Astera Documentary
+https://live3.karwan.tv/astera-documentary/index.mpd?token=20fd9bde96bb11e77670594e12f06b09124dde50-0f499a1689f8c09d66a9b0cc399ba538-1768958913-1768948113&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 125
-https://live3.karwan.tv/astera-show/index.mpd?token=f0f09a90953bdf4c1045ad3e3b0f8ab1877322bc-69363930ed817768caad9259818ccf0d-1768952121-1768941321&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Astera Show&background=random&color=fff", Astera Show
+https://live3.karwan.tv/astera-show/index.mpd?token=33cdee8415a4b46779f4e8fafd305bf0cefba1d5-a130e620c069b5f101964b2259eb23d6-1768958911-1768948111&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 126
-https://live3.karwan.tv/astera-culture/index.mpd?token=2681fb849867222db6d1e210b6be19c656bacd22-e27edb4545e3167bb2873b2005398e98-1768952122-1768941322&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Astera Culture&background=random&color=fff", Astera Culture
+https://live3.karwan.tv/astera-culture/index.mpd?token=6814b153a9e021185b51a57015730fa5251f4206-37e38ab19348e5cbeab93a8a9d274fac-1768958912-1768948112&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 127
-https://live3.karwan.tv/qallam-tv/index.mpd?token=acd1fc2a6096233f13af6c46999fab278bcc4bdc-e76e0d75d570658acd4985b492fa4d5a-1768952123-1768941323&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Qallam Tv&background=random&color=fff", Qallam Tv
+https://live3.karwan.tv/qallam-tv/index.mpd?token=299ef397c30d3588daa71e22f807baa586c8ae79-624bb7ad7569783b105a61eaf24d7d3a-1768958911-1768948111&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 128
-https://live3.karwan.tv/qallam-geographic/index.mpd?token=bf7cd9e7e3b65ca862572e733283a366cdb09988-7426b676f2d849c596a09d1dc50f3d05-1768952123-1768941323&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Qallam Geographic&background=random&color=fff", Qallam Geographic
+https://live3.karwan.tv/qallam-geographic/index.mpd?token=d8ccd9c2d056a20afe61cba2a137fc36e8bbe3c9-e64b1a5c71f303614aae7eb1cc3661bd-1768958914-1768948114&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 129
-https://live3.karwan.tv/qallam-kids/index.mpd?token=409be75aca56b192635cdc013be1ee3c74d1b0da-06647f77be3db6f1ea7c4cc883ccf76d-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Qallam Kids&background=random&color=fff", Qallam Kids
+https://live3.karwan.tv/qallam-kids/index.mpd?token=83779d006c32616b61ff44db0448c778735b3550-55eada6077b5e04f423da0bd168f5f9d-1768958914-1768948114&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 130
-https://live3.karwan.tv/ranya-tv/index.mpd?token=fc971e9ebd1f0df806ce583ad4e52124f470c12b-8b303459dc1a879c6d50acae8b5b7d83-1768952125-1768941325&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ranya Tv&background=random&color=fff", Ranya Tv
+https://live3.karwan.tv/ranya-tv/index.mpd?token=e876459f898afc8ebb363c2f1c778877b13ee975-f169e4274855c3e0e12cf61e7d0bb91d-1768958913-1768948113&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 131
-https://live3.karwan.tv/baboly-tv/index.mpd?token=226519a59c9d88bdeb2ae33e1ff5d0477fecc3ea-884fb95a264cc27c5344e2eb7aa9e34e-1768952123-1768941323&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Baboly Tv&background=random&color=fff", Baboly Tv
+https://live3.karwan.tv/baboly-tv/index.mpd?token=2c7be3a4d52de2a70c259992bc1c04226ab6bbdf-a3a9cd3ad99ddf2d39240c410032f86d-1768958914-1768948114&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 132
-https://live.karwan.tv/nrt-sport/index.mpd?token=47607be65bdd2dae679f3297e8cf529098030399-f1aca6720122b923ca257816f309e98c-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Nrt Sport&background=random&color=fff", Nrt Sport
+https://live.karwan.tv/nrt-sport/index.mpd?token=8e7f48d4e99726cf22245ef17fe9b36c061913e2-840b47bdc50e10cd9808c882f81ae2da-1768958914-1768948114&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 133
-https://live3.karwan.tv/astera-sport/index.mpd?token=9a49aba19c73ededf52ca1ef948ad149f9192fc6-536609e0227d2ec5598ac4d2bd5dd867-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Astera Sport&background=random&color=fff", Astera Sport
+https://live3.karwan.tv/astera-sport/index.mpd?token=cd1fdd3cd50b7ffb7443e6eb754e1c83f51e0463-e2d8f1bd057210c66955f7c944df9146-1768958915-1768948115&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 134
-https://live.karwan.tv/ava-sport/index.mpd?token=6144de2392aa5b9a750aa8c0c731ab6498a1589d-49c78d3623584b65fba9c470738bf82c-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ava Sport&background=random&color=fff", Ava Sport
+https://live.karwan.tv/ava-sport/index.mpd?token=62f64b1f9ade367034b479a4ce9c722fdb4ec02c-41be5186454643dac4bd032636f1df15-1768958916-1768948116&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 135
-https://live3.karwan.tv/ld-sport-chek/index.mpd?token=54b9c5908891e886d2a8c26b9002bddac246f1be-b14d9887a421cff04d431e347fa9acc2-1768952125-1768941325&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ld Sport Chek&background=random&color=fff", Ld Sport Chek
+https://live3.karwan.tv/ld-sport-chek/index.mpd?token=7ef805a4081adee5906fca1dbd9ae25674614243-c02e083c68641950d184de879d5dec0e-1768958915-1768948115&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 136
-https://live3.karwan.tv/aso-sport/index.mpd?token=f0faef00124126635d41a3e6b851bbd41ca8596c-e5fa05272764321e1c61aad58213e64e-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Aso Sport&background=random&color=fff", Aso Sport
+https://live3.karwan.tv/aso-sport/index.mpd?token=f21b7fb4fbb4ae79fbdf52805312e8dc70add61b-5faf07fd07a3f7bb52540bd8e304a850-1768958916-1768948116&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 137
-https://live3.karwan.tv/delal-sport/index.mpd?token=516bbf5f60f3641fba1f4408ca590d439f4f6898-652d15ad2931c58b553b401829813fbe-1768952125-1768941325&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Delal Sport&background=random&color=fff", Delal Sport
+https://live3.karwan.tv/delal-sport/index.mpd?token=049480f2de130192abebc57da98bc2a10291eb55-e928c54a06397e9dd6d6091df9dadadd-1768958915-1768948115&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 138
-https://live3.karwan.tv/duhok-tv-sport/index.mpd?token=0dfb16fce13fd234129d6dc5bcc91c1eb17a57c9-4757f50e8424333414d849bda53708d2-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Duhok Tv Sport&background=random&color=fff", Duhok Tv Sport
+https://live3.karwan.tv/duhok-tv-sport/index.mpd?token=312c8f1b9701857da84eeadc85ab389f0db58193-f074df8786af90a94f932e2f6a8443cf-1768958915-1768948115&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 139
-https://live3.karwan.tv/aro-sport/index.mpd?token=b7b05419db71f76c91e353f7d5849e10bea79643-4b071e7248c9f0d76b219d00845c60ff-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Aro Sport&background=random&color=fff", Aro Sport
+https://live3.karwan.tv/aro-sport/index.mpd?token=667a8c3018f11991f5e1226e2beba76f354c23f2-6437aad4571267be56b332de380182fc-1768958916-1768948116&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 140
-https://live3.karwan.tv/zaxo-sport/index.mpd?token=84d8a5c921e379ac1dd384af4e792867acc00369-a940077d702016530ac4c1d9e14c7243-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Zaxo Sport&background=random&color=fff", Zaxo Sport
+https://live3.karwan.tv/zaxo-sport/index.mpd?token=b28f2d715ac0653850b3e8e81c3fa3433964ba51-58aa57e995554ec4d24a26d759c701a5-1768958915-1768948115&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 141
-https://live3.karwan.tv/zed-tv/index.mpd?token=bed9360d01614bc480573348ee3d432dcb74b7f1-fc0ca64644e99fe1145ed6581f17483e-1768952126-1768941326&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Zed Tv&background=random&color=fff", Zed Tv
+https://live3.karwan.tv/zed-tv/index.mpd?token=c5d0edb580c9dd64448c2dbde8bd076e977d4202-cb3fd5b673e78a3434fe873808a240b1-1768958915-1768948115&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 142
-https://live3.karwan.tv/zed-tv-plus/index.mpd?token=2c54446b7ea748e898657adef832c79ff8b3c08b-ba776b03caf70231ba9e84a81a0a6d80-1768952127-1768941327&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Zed Tv Plus&background=random&color=fff", Zed Tv Plus
+https://live3.karwan.tv/zed-tv-plus/index.mpd?token=9688d164b2528128544ba7afcd7ccfe9cfdb9ac1-718504383ece38c5608e5946cdff169d-1768958916-1768948116&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 143
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Newline Tv&background=random&color=fff", Newline Tv
 https://live3.karwan.tv/newline-tv/index.mpd?token=a1ad61f829f2ad070d83e121ccb03847688dd90a-7c33984a930c9ee9cb138a39e2909243-1763757768-1763746968&remote=no_check_ip
 
-#EXTINF:-1, OK-TV Channel 144
-https://live.karwan.tv/speda-drama/index.mpd?token=ed4dada190370a10e08ed0525d89a0c2502d2091-0bd1d27a5ea0d42745bff0b0589209d5-1768952127-1768941327&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Speda Drama&background=random&color=fff", Speda Drama
+https://live.karwan.tv/speda-drama/index.mpd?token=d9896126b1d7a1a4d90da051c6dce89244a59a00-91bb4c43827a5b45b52a8f78c46ebf27-1768958917-1768948117&remote=no_check_ip
 

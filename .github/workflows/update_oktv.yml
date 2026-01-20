@@ -1,0 +1,32 @@
+name: Update OKTV List
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # هەموو ١٥ خولەک جارێک ئۆتۆماتیک نوێی دەکاتەوە
+  workflow_dispatch: # بۆ ئەوەی بە دەستیش بتوانیت نوێی بکەیتەوە
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run converter
+        run: python convert_oktv.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add oktv_list.m3u
+          git commit -m "Auto-update OKTV list" || exit 0
+          git push

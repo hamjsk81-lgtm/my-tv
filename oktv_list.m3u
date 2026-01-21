@@ -36,7 +36,7 @@ https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Channel+13&background=random", Channel 13
-https://vsd123.okcdn.ru/hls/3527542770279.m3u8/sig/qudOjQDN2yA/expires/1768994986244/srcIp/62.201.240.87/urls/185.226.53.66/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_low/index.m3u8
+https://vsd123.okcdn.ru/hls/3527542770279.m3u8/sig/ofu3tmkxwUI/expires/1769097796306/srcIp/185.187.205.206/urls/185.226.53.66/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Channel+14&background=random", Channel 14
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/HawezHD.m3u8

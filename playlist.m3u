@@ -1,319 +1,328 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ISTARQ.png",ISTAR QURAN H265
-http://45.155.226.133:8085/kurdish/ku/local-Istar-Quran-H265/mono.m3u8?md5=-2sPic6i90lqaLz9uhbCmA&expires=1773155297&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ISTAR-M.png",ISTAR MOVIES H265
-http://154.6.189.163:8085/kurdish/ku/local-ISTAR-Movies-h265/mono.m3u8?md5=xN-w8rpc9uYROpHQtLkBGA&expires=1773155312&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ISTAR-F.png",ISTAR FOLKLOR H265
-http://154.6.189.163:8085/kurdish/ku/local-ISTAR-Folklor-H265/mono.m3u8?md5=6Dqv_rRcR7GWz5tHUyw8Og&expires=1773155313&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ISTAR-KIDS.png",ISTAR KIDS H265
-http://154.6.189.163:8085/kurdish/ku/local-ISTAR-Kids-H265/mono.m3u8?md5=FL6TXUpHT4hZ5pxabD4lfA&expires=1773155314&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/k24doc.png",K24 DOCUMENTARY H265
-http://154.6.189.161:8085/kurdish/ku/K24-Documentary-H265/mono.m3u8?md5=HrAclAFtPEnu2UPsxtqsfQ&expires=1773155319&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/rudawHD.png",RUDAW HD H265
-http://45.155.226.133:8085/kurdish/ku/Rudaw-hd-h265/mono.m3u8?md5=735oP7KZP2p3M8rI3wS05A&expires=1773155319&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Kurdistan_tv_logo.png",KURDISTAN
-http://45.155.226.139:8085/kurdish/ku/Kurdistan/mono.m3u8?md5=eYox6TkfmvhQXkPiOfVgpw&expires=1773155320&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/AVATV.png",AVA TV HD
-http://154.6.189.163:8085/kurdish/ku/AVA-TV-HD/mono.m3u8?md5=BaP8NTPsfpx7H8RGf4AQQQ&expires=1773155321&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Kurdsat_HD.png",KURDSAT HD H265
-http://45.155.226.138:8085/kurdish/ku/Kurdsat-HD-h265/mono.m3u8?md5=NwKKmA6fq_a6UVOp_e_S7g&expires=1773155325&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/CHANNEL-8.png",CHANNEL 8 H265
-http://45.155.226.138:8085/kurdish/ku/Channel-8-h265/mono.m3u8?md5=wdIB6RCdrHCq3UXO_XisdA&expires=1773155327&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nrt.png",NRT HD H265
-http://45.155.226.147:8085/kurdish/ku/NRT-Hd-H265/mono.m3u8?md5=RFXZ-ttLpWsY8xLsYmw_XQ&expires=1773155329&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/galikurdistan.png",GALI KURDISTAN
-http://154.6.189.162:8085/kurdish/ku/Gali-Kurdistan/mono.m3u8?md5=YS_2dmLDjU3XD-h7bHENvw&expires=1773155336&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/waartv.png",WAAR TV
-http://103.163.132.12:8085/kurdish/ku/Waar-tv/mono.m3u8?md5=2vAN3FxFUBFUHMN8WdFfEw&expires=1773155340&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Nishtemanymn.png",NISHTMANIMN H265
-http://154.6.189.162:8085/kurdish/ku/local-Nishtmanimn-H265/mono.m3u8?md5=USljfmoDHIUqpj-x71nRnA&expires=1773155340&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ZEDHD.png",ZED HD H265
-http://45.155.226.138:8085/kurdish/ku/local-ZED-HD-H265/mono.m3u8?md5=y8s7s-XGi0gi132tVjaRaQ&expires=1773155346&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ZEDPLUS1.png",LOCAL ZED PLUSE H265
-http://45.155.226.139:8085/kurdish/ku/Local-Zed-pluse-H265/mono.m3u8?md5=vboOw_vug5Ze-0GyPPztXA&expires=1773155347&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/DIMeN.png",DIMAN HD H265
-http://154.6.189.163:8085/kurdish/ku/local-Diman-HD-H265/mono.m3u8?md5=C__jFSVHKzewd1-8FzwlTQ&expires=1773155348&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/kurdmax.png",LOCAL KURDMAX HD H265
-http://45.155.226.139:8085/kurdish/ku/Local-KURDMAX-HD-H265/mono.m3u8?md5=jGS235SMzj5WvubbPTeWGQ&expires=1773155348&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/KurdMaxShow.png",KURDMAX SHOW TV H265
-http://154.6.189.162:8085/kurdish/ku/KurdMax-Show-TV-h265/mono.m3u8?md5=nLqLqRYQqJf3nBEPt3ygdw&expires=1773155350&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/KurdMaxMusic.png",KURDMAX MUSIC H265
-http://45.155.226.136:8085/kurdish/ku/KurdMax-Music-H265/mono.m3u8?md5=amSDBkZQuIo1qoGeBYNdxg&expires=1773155353&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/kurdmaxpapula.png",KURDMAX PEPULE KURDISH H265
-http://45.155.226.139:8085/kurdish/ku/Kurdmax-Pepule-Kurdish-H265/mono.m3u8?md5=T3mA0awxqMwTfa5bJOsr_w&expires=1773155353&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-hd.png",NEWLINE H265
-http://154.6.189.163:8085/kurdish/ku/local-NewLine-H265/mono.m3u8?md5=Amy4_s_fjo1NC6wqaK2aiw&expires=1773155354&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newlinedrama.png",NEWLINE DRAMA H265
-http://154.6.189.161:8085/kurdish/ku/local-Newline-Drama-H265/mono.m3u8?md5=BtBf-SwBmbnnE5jk5kWOBw&expires=1773155356&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-movies.png",NEWLINE MOVIES H265
-http://154.6.189.162:8085/kurdish/ku/local-Newline-Movies-H265/mono.m3u8?md5=uDWgVvfv71c59KNZj0T0xQ&expires=1773155359&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-kids.png",NEWLINE KIDS H265
-http://154.6.189.162:8085/kurdish/ku/local-Newline-Kids-H265/mono.m3u8?md5=3cgpOA7LDXdxaIVZ9cBjNw&expires=1773155360&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-bollywood.png",NEWLINE BOLYWOOD H265
-http://45.155.226.139:8085/kurdish/ku/local-Newline-Bolywood-H265/mono.m3u8?md5=t_at24bV582lBU9mXzfRgg&expires=1773155361&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-sport.png",NEWLINE SPORT H265
-http://154.6.189.162:8085/local/ku/local-Newline-Sport-H265/mono.m3u8?md5=n7pbdnvJNaTxw4unEv-ZaQ&expires=1773155362&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/astera.png",ASTERA H265
-http://103.163.132.13:8085/kurdish/ku/local-Astera-H265/mono.m3u8?md5=Fo4X5ry519dJamWfXHkCBQ&expires=1773155363&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERAMOVIES.png",ASTERA MOVIES HD H265
-http://154.6.189.162:8085/kurdish/ku/local-Astera-Movies-HD-H265/mono.m3u8?md5=AHOIYz6KYTzu-fufTNf0OA&expires=1773155366&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERASHOW.png",ASTERA SHOW HD H265
-http://103.163.132.13:8085/kurdish/ku/local-Astera-Show-HD-H265/mono.m3u8?md5=8s57gVl_HGhVkpgxu4ZV2Q&expires=1773155367&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERABABY.png",ASTERA BABY H265
-http://103.163.132.13:8085/kurdish/ku/local-Astera-Baby-H265/mono.m3u8?md5=WE5T_liH_R-hdcjXhJFxng&expires=1773155368&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Astera-Folklor.png",ASTERA FOLCLOR H265
-http://45.155.226.138:8085/kurdish/ku/local-Astera-Folclor-H265/mono.m3u8?md5=-zkXmfoYENkDg5Yazr4O6A&expires=1773155369&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERADOCUMENTARYHD.png",ASTERA DOCUMEN H265
-http://103.163.132.13:8085/kurdish/ku/local-Astera-Documen-H265/mono.m3u8?md5=b1WYUV8ELJT79B1zoQqr6A&expires=1773155370&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERASPORT1.png",ASTERS SPORT 1 HD H265
-http://45.155.226.136:8085/local/ku/local-Asters-Sport-1-HD-H265/mono.m3u8?md5=jASyGeNKl4NjxUwuivGYLw&expires=1773155373&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="",ASTERS SPORT 2 HD H265
-http://154.6.189.163:8085/kurdish/ku/local-Asters-Sport-2-HD-H265/mono.m3u8?md5=fKiXiVHZBu7b91Cpgf44wQ&expires=1773155374&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nigakids.png",NIGA KIDS H265
-http://103.163.132.12:8085/kurdish/ku/local-NIGA-KIDS-H265/mono.m3u8?md5=7p3WhMejs_0cuNtjEneI4Q&expires=1773155376&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nigamovies.png",NIGA MOVIES
-http://103.163.132.12:8085/kurdish/ku/local-Niga-Movies/mono.m3u8?md5=IjrwlL3OeLJxB0ZSDH8m0g&expires=1773155377&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ARO-FAMOLE.png",ARO FAMILY
-http://154.6.189.161:8085/kurdish/ku/local-Aro-Family/mono.m3u8?md5=1MMQQ2Y1b89bOp2tTDAi0g&expires=1773155380&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/arosport.png",ARO SPORT
-http://154.6.189.161:8085/local/ku/local-Aro-Sport/mono.m3u8?md5=N3goSgYbgkHpIlEdcZps0w&expires=1773155381&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nrt2.png",NRT2 HD H265
-http://103.163.132.12:8085/kurdish/ku/NRT2-HD-h265/mono.m3u8?md5=0xV5xLNf677pBkwGuYYTbw&expires=1773155382&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nrt3.png",NRT 3 KIDS
-http://45.155.226.138:8085/kurdish/ku/NRT-3-Kids/mono.m3u8?md5=QUpmGc4LtkmQfHYDXA3EqQ&expires=1773155383&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/NRT4.png",NRT 4 H265
-http://103.163.132.13:8085/kurdish/ku/NRT-4-h265/mono.m3u8?md5=R9-iFYtACyjDuBMPrC9Gqw&expires=1773155384&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Reng_Family.png",RENG HD H265
-http://154.6.189.161:8085/kurdish/ku/local-Reng-HD-H265/mono.m3u8?md5=VkjE9VLkDC3TmzNt8pz6wQ&expires=1773155388&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/RENGDOC.png",RANG DOCUMENTARY
-http://45.155.226.139:8085/kurdish/ku/local-Rang-Documentary/mono.m3u8?md5=Yz5s3X7u1wPJYPvtK418xQ&expires=1773155389&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/RENGSPORT.png",LOCAL RANG SPORT
-http://45.155.226.138:8085/local/ku/Local-Rang-Sport/mono.m3u8?md5=7gtT1DrNmIOMPL6uQf1_pA&expires=1773155390&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Reng_Family.png",RENG KIDSH265
-http://45.155.226.147:8085/kurdish/ku/local-Reng-kidsH265/mono.m3u8?md5=EHcAYvCIztxC52lVbHytIw&expires=1773155391&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Afarin_logo.png",AFARIN HD
-http://154.6.189.163:8085/kurdish/ku/local-Afarin-HD/mono.m3u8?md5=poK7wkJiiXq85C-N2r0b1A&expires=1773155394&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/BAXCHAEAFARINTV.png",ABAXCHA
-http://154.6.189.161:8085/baghdad/live/abaxcha/mono.m3u8?md5=TJn4zF2CaOY7TyOXCRbwiA&expires=1773155395&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/first1.png",LOCAL FIRST HD H265
-http://154.6.189.162:8085/kurdish/ku/Local-First-HD-H265/mono.m3u8?md5=8NdBIhia-TOi-I4js5gqJQ&expires=1773155396&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/JOJOMAMA.png",JOJO MAMA HD H265
-http://45.155.226.133:8085/kurdish/ku/local-Jojo-Mama-HD-H265/mono.m3u8?md5=vJ3fp5Cz9EzV_a60sKGX5w&expires=1773155397&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Kidco-HD.png",KIDCO HD H265
-http://45.155.226.147:8085/kurdish/ku/local-Kidco-HD-H265/mono.m3u8?md5=5rjn49Bpf68h6sFTM73h8Q&expires=1773155398&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/oscartv.png",OSCAR HD H265
-http://103.163.132.13:8085/kurdish/ku/local-Oscar-HD-H265/mono.m3u8?md5=d1Y_ykHjUidy7oARnO1h4g&expires=1773155402&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/pelistank.png",PELISTANK H265
-http://154.6.189.162:8085/kurdish/ku/Pelistank-h265/mono.m3u8?md5=lJgtfbn0i1uVM7s2U81XSA&expires=1773155403&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/PARWARDAYIHAWLERHD.png",PARWARDAE HAWLER H265
-http://154.6.189.163:8085/kurdish/ku/local-Parwardae-Hawler-h265/mono.m3u8?md5=3zx184Qzi1ZDoRv4hwr4SQ&expires=1773155404&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/camedu1.png",CAMBRIDGE TV
-http://103.163.132.12:8085/kurdish/ku/Cambridge-TV/mono.m3u8?md5=YhqLJFdSj2Y23Ul0PpDxww&expires=1773155405&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ZHYAR.png",ZHYAR HD H265
-http://154.6.189.162:8085/kurdish/ku/local-Zhyar-HD-H265/mono.m3u8?md5=YsthoSN2xWRnZqElBXoolw&expires=1773155407&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/sada.png",LOCA SADA H265
-http://154.6.189.161:8085/kurdish/ku/loca-Sada-h265/mono.m3u8?md5=92Azv3rBlOu3enHbULs0AA&expires=1773155409&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/qurantv.png",SAUDI QURAAN
-http://103.163.132.12:8085/arabic/ar/Saudi-Quraan/mono.m3u8?md5=avkbRi_cAA3orCDiYal6sg&expires=1773155410&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/sunnah.png",QURAAN SUNNAH
-http://45.155.226.136:8085/arabic/ar/Quraan-Sunnah/mono.m3u8?md5=sL2cRALN23A7lenwVFB2xw&expires=1773155411&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/tasawuf.png",TASAWF HD
-http://45.155.226.139:8085/kurdish/ku/local-Tasawf-HD/mono.m3u8?md5=-WbKw8eWSs6TzOvO51mmqg&expires=1773155412&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/JUDY.png",JUDY H265
-http://103.163.132.12:8085/kurdish/ku/local-Judy-H265/mono.m3u8?md5=uiT5Sb03puJt9-ppd_LWFQ&expires=1773155414&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/komal.png",KOMAL HD H265
-http://103.163.132.12:8085/kurdish/ku/local-Komal-HD-H265/mono.m3u8?md5=r0aPoMz0ZHOh2tWB9SJ7HA&expires=1773155416&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/SRUSHTHD.png",SRUSHT H265
-http://154.6.189.161:8085/kurdish/ku/local-Srusht-H265/mono.m3u8?md5=5m6AbuMUK5ikEYPTENdjdw&expires=1773155417&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="",LIVE MIHRAB TV
-http://103.163.132.13:8085/kurdish/ku/Live-Mihrab-TV/mono.m3u8?md5=D6qEPiyUDO_RMat6u2-U4Q&expires=1773155417&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASMAN.png",LOCAL ASMAN HD H265
-http://45.155.226.138:8085/kurdish/ku/Local-Asman-HD-H265/mono.m3u8?md5=6fkwrxzhAU3ISckJ6_5jJA&expires=1773155418&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/bangawaz-HD.png",BANGAWAZ
-http://45.155.226.133:8085/kurdish/ku/Bangawaz/mono.m3u8?md5=9g_6JtyP0tnBcM1DbvmSCg&expires=1773155422&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/amozhgary.png",AMOZHGARY
-http://45.155.226.136:8085/kurdish/ku/Amozhgary/mono.m3u8?md5=u-WJnK1IDGEGnAOIfchagw&expires=1773155423&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/bask1.png",BASK H265
-http://103.163.132.12:8085/kurdish/ku/Bask-h265/mono.m3u8?md5=LNDFFI_DySBw2G7_xAPgEg&expires=1773155424&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Binar.png",LOCAL BINAR HD H265
-http://154.6.189.162:8085/kurdish/ku/Local-Binar-HD-H265/mono.m3u8?md5=xLOuUaMpz7cl-e6JjUXZSA&expires=1773155424&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/azadi.png",AZADI H265
-http://154.6.189.161:8085/kurdish/ku/azadi-h265/mono.m3u8?md5=9XQmDf_xjBoDbMlAx80H7A&expires=1773155426&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/efficttv.png",LOCAL EFFECT TV H265
-http://45.155.226.139:8085/kurdish/ku/Local-Effect-TV-H265/mono.m3u8?md5=T8o3AKupxwhh47WU4WPF6w&expires=1773155428&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="",4 ANIME H265
-http://154.6.189.163:8085/kurdish/ku/4-Anime-h265/mono.m3u8?md5=7kR0ZtAIRwhK6GLDwsrFHA&expires=1773155401&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/qellattv.png",QELLAT TV H265
-http://154.6.189.161:8085/kurdish/ku/local-Qellat-Tv-H265/mono.m3u8?md5=0-bKJ6K0EdgbIHVV89Z1Sg&expires=1773155429&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/avar.png",AVAR H265
-http://45.155.226.136:8085/kurdish/ku/local-Avar-h265/mono.m3u8?md5=s_9ccvFdgTqaengnd-mDWA&expires=1773155430&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/BMCTV.png",BMCHD
-http://103.163.132.12:8085/baghdad/live/bmchd/mono.m3u8?md5=b37B2nXsuip0YQfW2_uYjw&expires=1773155433&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ZNAR.png",LOCAL ZNAR TV H265
-http://45.155.226.138:8085/kurdish/ku/Local-Znar-TV-H265/mono.m3u8?md5=x6V9Uu8xjwnZ1OnTbylbVQ&expires=1773155435&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/BABOLLY.png",LOCAL BABOLLY H265
-http://45.155.226.138:8085/kurdish/ku/Local-babolly-H265/mono.m3u8?md5=_V04rBlGKnkOEnzK8xZtNQ&expires=1773155436&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/esta1.png",ESTA HD H265
-http://45.155.226.147:8085/kurdish/ku/local-Esta-hd-H265/mono.m3u8?md5=l03bSSnt8ZKwK16FBl5fbg&expires=1773155437&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Xabir.png",XABIR H265
-http://45.155.226.133:8085/kurdish/ku/Xabir-H265/mono.m3u8?md5=nI_oAo8YuOUtBxZX0WWm4A&expires=1773155438&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/cihantv.png",CIHAN HD H265
-http://45.155.226.138:8085/kurdish/ku/local-Cihan-HD-H265/mono.m3u8?md5=X_t78J39LMGOpKa-NJRdJQ&expires=1773155439&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/minara.png",MINARA HD
-http://45.155.226.147:8085/kurdish/ku/local-Minara-HD/mono.m3u8?md5=eKjjIazAUf2b-1em1Wmbvg&expires=1773155442&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/KIERKUK.png",KIRKUK TV
-http://45.155.226.139:8085/kurdish/ku/Kirkuk-TV/mono.m3u8?md5=Bq-hQ7SeAaPQ-_wnFjxHtA&expires=1773155443&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/alatv.png",ALA TV H265
-http://154.6.189.163:8085/kurdish/ku/local-ALA-TV-H265/mono.m3u8?md5=DAd8fkA7iIp3uadET6M-8w&expires=1773155445&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ROZH.png",ROZH HD H265
-http://154.6.189.162:8085/kurdish/ku/local-rozh-hd-H265/mono.m3u8?md5=XJmtyfkvnK1yXtiAJwNOUg&expires=1773155446&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/oneworld.png",ONE H265
-http://103.163.132.12:8085/kurdish/ku/ONE-h265/mono.m3u8?md5=fHRMnvMR7idx4kWgSPr7hg&expires=1773155446&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="",RT ARAB
-http://103.163.132.13:8085/arabic/ar/RT-Arab/mono.m3u8?md5=ihXwJCCrRt1hOmPByDEs8w&expires=1773155455&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="",ALSHARQIYA NEWS
-http://154.6.189.161:8085/arabic/ar/AlSharqiya-News/mono.m3u8?md5=iSVfoftcRFw3eJSYis9vlg&expires=1773155456&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/kurdistansport.png",KURDISTANSPORT
-http://154.6.189.163:8085/local/ku/local-KurdistanSport/mono.m3u8?md5=1dLC3t2cuEzNNDVvPss1zQ&expires=1773155457&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/asosport.png",ASOSPORT
-http://45.155.226.133:8085/local/ku/local-AsoSport/mono.m3u8?md5=Yv2TjI0y86exmCNh-ih1lA&expires=1773155459&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="",SSC1
-http://103.163.132.12:8085/local/ar-s/SSC1/mono.m3u8?md5=Og1UBNc8pu0CXuyvYOIA8w&expires=1773155462&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="",STARZPLAY 1
-http://45.155.226.138:8085/local/ar-s/StarzPlay-1/mono.m3u8?md5=jM7ifrHtPLHhBqljcAjoEg&expires=1773155463&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="",STARZPLAY 2
-http://154.6.189.161:8085/local/ar-s/StarzPlay-2/mono.m3u8?md5=C8oaN8FDF2WGwIjYsk8qYA&expires=1773155464&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="",BEIN SP 1 H265 EXTENDED
-http://154.6.189.162:8085/ssn/ar-s/bein-sp-1-H265-extended/mono.m3u8?md5=Pk1Vy-7vIjIpErGQkMCl6g&expires=1773155465&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-3sd.png",BEIN SP 3 H265 EXTENDED
-http://45.155.226.138:8085/ssn/ar-s/bein-sp-3-H265-extended/mono.m3u8?md5=Xkokd584nS-gdgybfuI1_Q&expires=1773155468&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-4sd.png",BEIN SP 4 H265 EXTENDED
-http://103.163.132.12:8085/ssn/ar-s/bein-sp-4-H265-extended/mono.m3u8?md5=FMVxt3Wox0HvraidU3avdQ&expires=1773155469&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/SPEDADRAMA.png",SPEDA DRAMA H265
-http://45.155.226.147:8085/kurdish/ku/local-SPEDA-DRAMA-H265/mono.m3u8?md5=Y5F4hCZpRFWP8zVMbscULw&expires=1773155334&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-5sd.png",BEIN SP 5 H265 EXTENDED
-http://45.155.226.136:8085/ssn/ar-s/bein-sp-5-H265-extended/mono.m3u8?md5=MRy4xWU1_jxqM3CZhuRfSg&expires=1773155470&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/utvHAWLER.png",UTV HD H265
-http://103.163.132.13:8085/kurdish/ku/local-UTV-HD-H265/mono.m3u8?md5=AmCwueHV8eV-QsxLL91_hg&expires=1773155334&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/spedatv.png",SPEDA
-http://45.155.226.136:8085/kurdish/ku/Speda/mono.m3u8?md5=XYMOtT270nDxSaegFbrcmA&expires=1773155331&type=a1&info=12d7087e0000630d
-
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-6sd.png",BEIN SP 6 H265 EXTENDED
-http://45.155.226.136:8085/ssn/ar-s/bein-sp-6-H265-extended/mono.m3u8?md5=7f_vaXaYkY8kXUSeKliVWw&expires=1773155471&type=a1&info=12d7087e0000630d
+http://45.155.226.147:8085/kurdish/ku/local-Istar-Quran-H265/mono.m3u8?md5=loXvSLPSwn1AJ5js4uA2OQ&expires=1773240324&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ISTAR.png",ISTAR MEDIA HD H265
-http://154.6.189.161:8085/kurdish/ku/local-ISTAR-Media-HD-h265/mono.m3u8?md5=374a0XH5PXoi6VmqUhdXjg&expires=1773155312&type=a1&info=12d7087e0000630d
+http://45.155.226.147:8085/kurdish/ku/local-ISTAR-Media-HD-h265/mono.m3u8?md5=9noa68EgfrfwwgmKD01cFA&expires=1773240338&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/avasport.png",AVA SPORT H265
-http://45.155.226.139:8085/local/ku/ava-sport-h265/mono.m3u8?md5=Y_UTBpsXlF5S668_qQYxhQ&expires=1773155325&type=a1&info=12d7087e0000630d
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ISTAR-M.png",ISTAR MOVIES H265
+http://154.6.189.162:8085/kurdish/ku/local-ISTAR-Movies-h265/mono.m3u8?md5=D3yIc0L_YpSl8FTzDJ50kQ&expires=1773240340&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-7sd.png",BEIN SP 7 H265 EXTENDED
-http://45.155.226.133:8085/ssn/ar-s/bein-sp-7-H265-extended/mono.m3u8?md5=Zqp59AQ_-j4qySXhNzn-_Q&expires=1773155474&type=a1&info=12d7087e0000630d
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ISTAR-F.png",ISTAR FOLKLOR H265
+http://154.6.189.163:8085/kurdish/ku/local-ISTAR-Folklor-H265/mono.m3u8?md5=8MYXwphDfRkdsTWFxcxfSg&expires=1773240340&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ISTAR-KIDS.png",ISTAR KIDS H265
+http://45.155.226.138:8085/kurdish/ku/local-ISTAR-Kids-H265/mono.m3u8?md5=ROomzZLeuIm_kgQAew5cSQ&expires=1773240341&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/rudawHD.png",RUDAW HD H265
+http://103.163.132.12:8085/kurdish/ku/Rudaw-hd-h265/mono.m3u8?md5=-N-SribzVY0orR7PJmnK3Q&expires=1773240347&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Kurdistan_tv_logo.png",KURDISTAN
+http://154.6.189.163:8085/kurdish/ku/Kurdistan/mono.m3u8?md5=7A7-eiko9K0ddB342Mverw&expires=1773240347&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nrt.png",NRT HD H265
+http://45.155.226.138:8085/kurdish/ku/NRT-Hd-H265/mono.m3u8?md5=1zLMzEncVLMnorR01uHHPw&expires=1773240355&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/spedatv.png",SPEDA
+http://103.163.132.12:8085/kurdish/ku/Speda/mono.m3u8?md5=fCQiUOQR7log4Ra9XsA3JQ&expires=1773240362&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/utvHAWLER.png",UTV HD H265
+http://45.155.226.147:8085/kurdish/ku/local-UTV-HD-H265/mono.m3u8?md5=q1EF0rQIIQCaTAvOL-Qkzg&expires=1773240363&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/utv.png",U2 TV H265
+http://45.155.226.136:8085/kurdish/ku/local-U2-TV-H265/mono.m3u8?md5=XHfgzsikc-c5V5oURdcNtA&expires=1773240364&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/SPEDADRAMA.png",SPEDA DRAMA H265
+http://103.163.132.12:8085/kurdish/ku/local-SPEDA-DRAMA-H265/mono.m3u8?md5=3NzY3p8bTr1dfmoURgYVfg&expires=1773240363&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/galikurdistan.png",GALI KURDISTAN
+http://154.6.189.162:8085/kurdish/ku/Gali-Kurdistan/mono.m3u8?md5=EGqKaYfWgTjQdTgyw6gdJA&expires=1773240364&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/payamtv.png",PAYAM
-http://154.6.189.163:8085/kurdish/ku/Payam/mono.m3u8?md5=1DeTCNa_rBrapaMj-OprWA&expires=1773155339&type=a1&info=12d7087e0000630d
+http://45.155.226.133:8085/kurdish/ku/Payam/mono.m3u8?md5=j4Xo80qmgLH8kyWK1gafLg&expires=1773240365&type=a1&info=12d7087e0000630d
 
-#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-1sd.png",BEIN SP MAX 1 4K EX
-http://45.155.226.133:8085/ssn/ar-s/bein-sp-max-1-4k-ex/mono.m3u8?md5=BEM4j4_5LeFsfP-jcrJmhw&expires=1773155476&type=a1&info=12d7087e0000630d
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Nishtemanymn.png",NISHTMANIMN H265
+http://45.155.226.138:8085/kurdish/ku/local-Nishtmanimn-H265/mono.m3u8?md5=3Yaa3DLZ5RZC5brwvbzk5A&expires=1773240367&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/rasantv.png",RASAN H265
+http://45.155.226.147:8085/kurdish/ku/local-Rasan-H265/mono.m3u8?md5=itxfIeSVoN2RQNys16-UaQ&expires=1773240368&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/KALAPURTV.png",KALAPUR H265
+http://103.163.132.12:8085/kurdish/ku/Kalapur-h265/mono.m3u8?md5=QYex-Y46rD-dV96yHulFug&expires=1773240369&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ZEDHD.png",ZED HD H265
+http://45.155.226.133:8085/kurdish/ku/local-ZED-HD-H265/mono.m3u8?md5=zqm4GnZ7XGmJRlTfldD-Dg&expires=1773240376&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/kurdmax.png",LOCAL KURDMAX HD H265
+http://45.155.226.133:8085/kurdish/ku/Local-KURDMAX-HD-H265/mono.m3u8?md5=Q3puCa4KW6EnK7MOfKN_VA&expires=1773240376&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ZEDPLUS1.png",LOCAL ZED PLUSE H265
+http://154.6.189.162:8085/kurdish/ku/Local-Zed-pluse-H265/mono.m3u8?md5=O8Rkb3fAEAoIOj1LHJkdMA&expires=1773240376&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/DIMeN.png",DIMAN HD H265
+http://45.155.226.147:8085/kurdish/ku/local-Diman-HD-H265/mono.m3u8?md5=zRSWk-YG3FANxBCF563-Qw&expires=1773240376&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/KurdMaxShow.png",KURDMAX SHOW TV H265
+http://103.163.132.13:8085/kurdish/ku/KurdMax-Show-TV-h265/mono.m3u8?md5=J2av6A_dcMlbR47tUhz3Yg&expires=1773240376&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/KurdMaxMusic.png",KURDMAX MUSIC H265
+http://103.163.132.12:8085/kurdish/ku/KurdMax-Music-H265/mono.m3u8?md5=C_OR6ORtgi-p9wuCiTdA2Q&expires=1773240380&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/kurdmaxpapula.png",KURDMAX PEPULE KURDISH H265
+http://45.155.226.138:8085/kurdish/ku/Kurdmax-Pepule-Kurdish-H265/mono.m3u8?md5=Ws0c2TtYE_IWDpZL-txCuA&expires=1773240382&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-hd.png",NEWLINE H265
+http://154.6.189.162:8085/kurdish/ku/local-NewLine-H265/mono.m3u8?md5=2zLmE1B1SwJRE_DenRrCkA&expires=1773240382&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-2hd.png",NEWLINE2 H265
+http://45.155.226.147:8085/kurdish/ku/local-NewLine2-H265/mono.m3u8?md5=ST0OQ1GlHGdNsmueXiMBgA&expires=1773240386&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newlinedrama.png",NEWLINE DRAMA H265
+http://154.6.189.163:8085/kurdish/ku/local-Newline-Drama-H265/mono.m3u8?md5=0io1jTIGXgmzk5QeHVBLIw&expires=1773240386&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-movies.png",NEWLINE MOVIES H265
+http://154.6.189.161:8085/kurdish/ku/local-Newline-Movies-H265/mono.m3u8?md5=S06_hwrFWDPW6y_zHC15gw&expires=1773240387&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-kids.png",NEWLINE KIDS H265
+http://45.155.226.139:8085/kurdish/ku/local-Newline-Kids-H265/mono.m3u8?md5=FEjSI5Mtb_HJztCOEgLUAA&expires=1773240387&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-bollywood.png",NEWLINE BOLYWOOD H265
+http://154.6.189.163:8085/kurdish/ku/local-Newline-Bolywood-H265/mono.m3u8?md5=QhWpieXOdvZO7zyHoESLQw&expires=1773240388&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/newline-sport.png",NEWLINE SPORT H265
+http://103.163.132.12:8085/local/ku/local-Newline-Sport-H265/mono.m3u8?md5=uJByKHM5gtXgTMxtzDGv1w&expires=1773240389&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERAMOVIES.png",ASTERA MOVIES HD H265
+http://154.6.189.161:8085/kurdish/ku/local-Astera-Movies-HD-H265/mono.m3u8?md5=Ow0Moe7o8WGn-GVFQXqlOw&expires=1773240393&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERASHOW.png",ASTERA SHOW HD H265
+http://45.155.226.138:8085/kurdish/ku/local-Astera-Show-HD-H265/mono.m3u8?md5=apqWmY2XVRwITKT3WRntiQ&expires=1773240394&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERABABY.png",ASTERA BABY H265
+http://103.163.132.12:8085/kurdish/ku/local-Astera-Baby-H265/mono.m3u8?md5=4pvIUujaxVtZUQk3i8VuiQ&expires=1773240395&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Astera-Folklor.png",ASTERA FOLCLOR H265
+http://154.6.189.161:8085/kurdish/ku/local-Astera-Folclor-H265/mono.m3u8?md5=sXELZGuh7KU5UJlLaY6b_A&expires=1773240396&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERADOCUMENTARYHD.png",ASTERA DOCUMEN H265
+http://103.163.132.12:8085/kurdish/ku/local-Astera-Documen-H265/mono.m3u8?md5=6716G1e60FQXL3_FXjY5hw&expires=1773240397&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASTERASPORT1.png",ASTERS SPORT 1 HD H265
+http://45.155.226.138:8085/local/ku/local-Asters-Sport-1-HD-H265/mono.m3u8?md5=K4H3LatRUUsoVLm0Y2rUPA&expires=1773240400&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nigatv.png",NIGA TV H265
+http://154.6.189.162:8085/kurdish/ku/local-Niga-tv-H265/mono.m3u8?md5=J1p5ZXr6zkb-EaBucPHY4w&expires=1773240403&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nigakids.png",NIGA KIDS H265
+http://45.155.226.136:8085/kurdish/ku/local-NIGA-KIDS-H265/mono.m3u8?md5=W9pu7MXiHPxs41_wDNnrXA&expires=1773240403&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nigamovies.png",NIGA MOVIES
+http://154.6.189.163:8085/kurdish/ku/local-Niga-Movies/mono.m3u8?md5=d2xqa6g1imIoYCY8STOvig&expires=1773240404&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ARO-FAMOLE.png",ARO FAMILY
+http://45.155.226.133:8085/kurdish/ku/local-Aro-Family/mono.m3u8?md5=yavG4Aw-d7vqYfzN83wYVA&expires=1773240406&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="",ASTERS SPORT 2 HD H265
+http://45.155.226.133:8085/kurdish/ku/local-Asters-Sport-2-HD-H265/mono.m3u8?md5=rUMPP3QMHj2Qmuf1pxCjYw&expires=1773240403&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nrt2.png",NRT2 HD H265
+http://154.6.189.161:8085/kurdish/ku/NRT2-HD-h265/mono.m3u8?md5=TB0GMy3DxAQBvhmGsfUsVw&expires=1773240409&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/nrt3.png",NRT 3 KIDS
+http://45.155.226.139:8085/kurdish/ku/NRT-3-Kids/mono.m3u8?md5=nGnuzaK3T7L800Wib_fbOQ&expires=1773240410&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/NRT4.png",NRT 4 H265
+http://45.155.226.147:8085/kurdish/ku/NRT-4-h265/mono.m3u8?md5=7aS7d3w7IpyNGC-Bmqw60A&expires=1773240411&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/NRTSPORT.png",KURD NRT SPORT
+http://103.163.132.13:8085/local/ku/KURD-NRT-Sport/mono.m3u8?md5=jTNGpJbp1m-29h0Uf6gxag&expires=1773240414&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Reng_Family.png",RENG HD H265
+http://154.6.189.161:8085/kurdish/ku/local-Reng-HD-H265/mono.m3u8?md5=RI3RitWivEYy3qcw_BqUtA&expires=1773240415&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/RENGDOC.png",RANG DOCUMENTARY
+http://45.155.226.147:8085/kurdish/ku/local-Rang-Documentary/mono.m3u8?md5=7xHTL5ycQ6l3L0itsWwtiA&expires=1773240415&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/RENGSPORT.png",LOCAL RANG SPORT
+http://103.163.132.13:8085/local/ku/Local-Rang-Sport/mono.m3u8?md5=aIoC6ZFN4Ap6GtJPxUiw4Q&expires=1773240417&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Reng_Family.png",RENG KIDSH265
+http://154.6.189.162:8085/kurdish/ku/local-Reng-kidsH265/mono.m3u8?md5=gf7qa2_EZIdUDbDFvfdpvg&expires=1773240418&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Afarin_logo.png",AFARIN HD
+http://103.163.132.13:8085/kurdish/ku/local-Afarin-HD/mono.m3u8?md5=-EFZ9I8wVl00PlerSr--pg&expires=1773240420&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/BAXCHAEAFARINTV.png",ABAXCHA
+http://154.6.189.161:8085/baghdad/live/abaxcha/mono.m3u8?md5=4yRKs43q5-s3wlY2rDw5vw&expires=1773240421&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/first1.png",LOCAL FIRST HD H265
+http://154.6.189.162:8085/kurdish/ku/Local-First-HD-H265/mono.m3u8?md5=_jlLX51JWqSo18JO5mfIGQ&expires=1773240422&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/JOJOMAMA.png",JOJO MAMA HD H265
+http://154.6.189.162:8085/kurdish/ku/local-Jojo-Mama-HD-H265/mono.m3u8?md5=fVVApSFtiOZQSkpy32kQxw&expires=1773240423&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Kidco-HD.png",KIDCO HD H265
+http://154.6.189.163:8085/kurdish/ku/local-Kidco-HD-H265/mono.m3u8?md5=1F5ZnyzAH9PBotyPybPqeQ&expires=1773240425&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/camedu1.png",CAMBRIDGE TV
+http://45.155.226.136:8085/kurdish/ku/Cambridge-TV/mono.m3u8?md5=UA02CBlfeiZwiQAYWGNrOA&expires=1773240433&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/sada.png",LOCA SADA H265
+http://154.6.189.162:8085/kurdish/ku/loca-Sada-h265/mono.m3u8?md5=qEGAQAlV_q1IoRiJ0g9XSw&expires=1773240435&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/oscartv.png",OSCAR HD H265
+http://45.155.226.138:8085/kurdish/ku/local-Oscar-HD-H265/mono.m3u8?md5=DSAENRl6Dvqcg3zOzDNECQ&expires=1773240430&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/qurantv.png",SAUDI QURAAN
+http://45.155.226.138:8085/arabic/ar/Saudi-Quraan/mono.m3u8?md5=W9eYq02BBRHHwcb2Jhsifw&expires=1773240436&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/PARWARDAYIHAWLERHD.png",PARWARDAE HAWLER H265
+http://45.155.226.136:8085/kurdish/ku/local-Parwardae-Hawler-h265/mono.m3u8?md5=Nd49WA1JifbA2Jwds_62_Q&expires=1773240433&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/sunnah.png",QURAAN SUNNAH
+http://45.155.226.139:8085/arabic/ar/Quraan-Sunnah/mono.m3u8?md5=qLlqOzl7d0lCOHAiFbibRw&expires=1773240437&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/tasawuf.png",TASAWF HD
+http://45.155.226.139:8085/kurdish/ku/local-Tasawf-HD/mono.m3u8?md5=uqxiaC7I5Zk1vgNHs7wujA&expires=1773240439&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/JUDY.png",JUDY H265
+http://154.6.189.161:8085/kurdish/ku/local-Judy-H265/mono.m3u8?md5=eGsNQSUdAKTAhk_ao17h0w&expires=1773240441&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/komal.png",KOMAL HD H265
+http://154.6.189.161:8085/kurdish/ku/local-Komal-HD-H265/mono.m3u8?md5=fBraPnk9ydSxp9fJoeFQKg&expires=1773240442&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/SRUSHTHD.png",SRUSHT H265
+http://103.163.132.13:8085/kurdish/ku/local-Srusht-H265/mono.m3u8?md5=D_5rCPAnFuDtJTUyq40SCA&expires=1773240443&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="",LIVE MIHRAB TV
+http://154.6.189.161:8085/kurdish/ku/Live-Mihrab-TV/mono.m3u8?md5=raQSN4IHeq7k9Fl9thvv0A&expires=1773240444&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ASMAN.png",LOCAL ASMAN HD H265
+http://45.155.226.138:8085/kurdish/ku/Local-Asman-HD-H265/mono.m3u8?md5=7TECD5rxXmvN7I_1WxMwZw&expires=1773240445&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/bangawaz-HD.png",BANGAWAZ
+http://45.155.226.133:8085/kurdish/ku/Bangawaz/mono.m3u8?md5=U7VgWUQNoTFS-X3aRET0PQ&expires=1773240448&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/amozhgary.png",AMOZHGARY
+http://45.155.226.133:8085/kurdish/ku/Amozhgary/mono.m3u8?md5=VQJAhYJzM0gS7tUrxBrHhQ&expires=1773240449&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/bask1.png",BASK H265
+http://45.155.226.147:8085/kurdish/ku/Bask-h265/mono.m3u8?md5=wTsEYyh4ufNpgreKmrf2Gg&expires=1773240450&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/azadi.png",AZADI H265
+http://154.6.189.161:8085/kurdish/ku/azadi-h265/mono.m3u8?md5=Ev5rc67CkxZoOMr6SIRxjg&expires=1773240454&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Binar.png",LOCAL BINAR HD H265
+http://154.6.189.162:8085/kurdish/ku/Local-Binar-HD-H265/mono.m3u8?md5=3HHrNcjamqikUOL-Oo2MPg&expires=1773240453&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/efficttv.png",LOCAL EFFECT TV H265
+http://45.155.226.136:8085/kurdish/ku/Local-Effect-TV-H265/mono.m3u8?md5=Zqar1EXVfQ6l7cfpT8pwXQ&expires=1773240455&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/qellattv.png",QELLAT TV H265
+http://154.6.189.162:8085/kurdish/ku/local-Qellat-Tv-H265/mono.m3u8?md5=qcXS0RJUqRpashujOn8K5A&expires=1773240456&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="",4 ANIME H265
+http://154.6.189.161:8085/kurdish/ku/4-Anime-h265/mono.m3u8?md5=jeFD2m_IUVKTRYsS5EwGtQ&expires=1773240428&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/BMCTV.png",BMCHD
+http://154.6.189.163:8085/baghdad/live/bmchd/mono.m3u8?md5=l1RdiwSSDNYBwJH_FQ7MdA&expires=1773240459&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/khak.png",LOCAL KHAK HD
+http://154.6.189.163:8085/kurdish/ku/Local-Khak-HD/mono.m3u8?md5=GLvafyGSqfJtHIbLl2upXQ&expires=1773240459&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ZNAR.png",LOCAL ZNAR TV H265
+http://103.163.132.13:8085/kurdish/ku/Local-Znar-TV-H265/mono.m3u8?md5=6k4LBawtmDFhxCdzHe9u0A&expires=1773240462&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/avar.png",AVAR H265
+http://154.6.189.161:8085/kurdish/ku/local-Avar-h265/mono.m3u8?md5=I3g0ZgBUIeN9UqO6n9cwwQ&expires=1773240459&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/BABOLLY.png",LOCAL BABOLLY H265
+http://45.155.226.139:8085/kurdish/ku/Local-babolly-H265/mono.m3u8?md5=SYmWpbc_7oMdbZJBqK8tOQ&expires=1773240463&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/esta1.png",ESTA HD H265
+http://45.155.226.147:8085/kurdish/ku/local-Esta-hd-H265/mono.m3u8?md5=CnFB-iQkDdADwqtCvKXS5w&expires=1773240464&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Xabir.png",XABIR H265
+http://154.6.189.163:8085/kurdish/ku/Xabir-H265/mono.m3u8?md5=2gYUfayA2bkBNTkPgfATEg&expires=1773240465&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/cihantv.png",CIHAN HD H265
+http://103.163.132.13:8085/kurdish/ku/local-Cihan-HD-H265/mono.m3u8?md5=X_t3FQGdTYHcvegFLhjaNw&expires=1773240466&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/minara.png",MINARA HD
+http://45.155.226.138:8085/kurdish/ku/local-Minara-HD/mono.m3u8?md5=AedH9NbQ6F7pau53jtPsLQ&expires=1773240469&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/KIERKUK.png",KIRKUK TV
+http://154.6.189.163:8085/kurdish/ku/Kirkuk-TV/mono.m3u8?md5=4gmOkn8KPFshMmmA4CsciA&expires=1773240470&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/alatv.png",ALA TV H265
+http://45.155.226.136:8085/kurdish/ku/local-ALA-TV-H265/mono.m3u8?md5=JUdW8Ob291dKFDjcygELnw&expires=1773240471&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/ROZH.png",ROZH HD H265
+http://45.155.226.138:8085/kurdish/ku/local-rozh-hd-H265/mono.m3u8?md5=7BWNe_Kgac2c08bGTmZzRQ&expires=1773240472&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/oneworld.png",ONE H265
+http://45.155.226.138:8085/kurdish/ku/ONE-h265/mono.m3u8?md5=IAMEGE19G5hNF_NOEvvtFA&expires=1773240473&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="",RT ARAB
+http://45.155.226.139:8085/arabic/ar/RT-Arab/mono.m3u8?md5=btKJtFN-8Hjwt-9_NhtuJA&expires=1773240482&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="",ALSHARQIYA NEWS
+http://154.6.189.161:8085/arabic/ar/AlSharqiya-News/mono.m3u8?md5=XkZwz3ocmcTGRCJQpSlXMw&expires=1773240483&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/kurdistansport.png",KURDISTANSPORT
+http://45.155.226.139:8085/local/ku/local-KurdistanSport/mono.m3u8?md5=4akcpfqwTD6z4OR3GaS00g&expires=1773240484&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/asosport.png",ASOSPORT
+http://154.6.189.162:8085/local/ku/local-AsoSport/mono.m3u8?md5=hf7E_VZLdWywXdTOq-2ndA&expires=1773240485&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="",SSC1
+http://45.155.226.139:8085/local/ar-s/SSC1/mono.m3u8?md5=BXhlABA9ngD_EBYvt8XPIg&expires=1773240489&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="",STARZPLAY 1
+http://154.6.189.162:8085/local/ar-s/StarzPlay-1/mono.m3u8?md5=1rElGeqyEvcaonRAl3XABw&expires=1773240490&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="",STARZPLAY 2
+http://154.6.189.163:8085/local/ar-s/StarzPlay-2/mono.m3u8?md5=uPi7hPCOe5JvKn1k_jSHow&expires=1773240491&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="",BEIN SP 1 H265 EXTENDED
+http://45.155.226.138:8085/ssn/ar-s/bein-sp-1-H265-extended/mono.m3u8?md5=quu48nhekrHjak6c9II5BA&expires=1773240492&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-3sd.png",BEIN SP 3 H265 EXTENDED
+http://45.155.226.133:8085/ssn/ar-s/bein-sp-3-H265-extended/mono.m3u8?md5=GE7OkHvj2Sj0atRf2HlgIA&expires=1773240495&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-4sd.png",BEIN SP 4 H265 EXTENDED
+http://45.155.226.139:8085/ssn/ar-s/bein-sp-4-H265-extended/mono.m3u8?md5=1km1S91dPSYyVcGICVAocA&expires=1773240496&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-5sd.png",BEIN SP 5 H265 EXTENDED
+http://154.6.189.163:8085/ssn/ar-s/bein-sp-5-H265-extended/mono.m3u8?md5=tojDaqY9sKeOOJEeEJcUtg&expires=1773240497&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-6sd.png",BEIN SP 6 H265 EXTENDED
+http://45.155.226.139:8085/ssn/ar-s/bein-sp-6-H265-extended/mono.m3u8?md5=Gn2qfZxkegy0pIB448Glew&expires=1773240498&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/k24doc.png",K24 DOCUMENTARY H265
+http://154.6.189.161:8085/kurdish/ku/K24-Documentary-H265/mono.m3u8?md5=runfWdxBQGwPZzxGDM2ZAA&expires=1773240347&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-7sd.png",BEIN SP 7 H265 EXTENDED
+http://45.155.226.139:8085/ssn/ar-s/bein-sp-7-H265-extended/mono.m3u8?md5=LGkiswbv98BXLXwlIDkj_Q&expires=1773240501&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-8sd.png",BEIN P 8 H265 EXTENDED
+http://45.155.226.136:8085/ssn/ar-s/bein-p-8-H265-extended/mono.m3u8?md5=c4csnHLCguHtFh1U9C6E4Q&expires=1773240501&type=a1&info=12d7087e0000630d
 
 #EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/kurdsat-news.png",KURDSAT NEWS HD H265
-http://45.155.226.147:8085/kurdish/ku/Kurdsat-News-HD-h265/mono.m3u8?md5=Z3MAmNuSaQbQ9NUEcKbP_A&expires=1773155327&type=a1&info=12d7087e0000630d
+http://103.163.132.12:8085/kurdish/ku/Kurdsat-News-HD-h265/mono.m3u8?md5=yXYjHS0qjo0q1lhac7LpdQ&expires=1773240355&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ar/bn-s-1sd.png",BEIN SP MAX 1 4K EX
+http://103.163.132.13:8085/ssn/ar-s/bein-sp-max-1-4k-ex/mono.m3u8?md5=bAp73mW2FOR2SgnXqTv_MA&expires=1773240503&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/K24logo.png",K24 H265
+http://154.6.189.163:8085/kurdish/ku/K24-h265/mono.m3u8?md5=5KWp8RENl9UuBlvqwHRwIA&expires=1773240347&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/avasport.png",AVA SPORT H265
+http://45.155.226.147:8085/local/ku/ava-sport-h265/mono.m3u8?md5=bpw5k1BuioB9cFT1mpVBDA&expires=1773240355&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/CHANNEL-8.png",CHANNEL 8 H265
+http://45.155.226.136:8085/kurdish/ku/Channel-8-h265/mono.m3u8?md5=U7_MUCOEYs_08F6aAmRImg&expires=1773240355&type=a1&info=12d7087e0000630d
+
+#EXTINF:-1 tvg-logo="http://classicvod.zinamedia.net/file/Flags/streams/ku/Kurdsat_HD.png",KURDSAT HD H265
+http://103.163.132.13:8085/kurdish/ku/Kurdsat-HD-h265/mono.m3u8?md5=SeDGdSRrBT-rfBQjWKncrg&expires=1773240355&type=a1&info=12d7087e0000630d
 

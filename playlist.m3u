@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",AVA SPORT H265
-http://t1-localchannels.zinatv.app/ku/ava-sport-h265/mono.m3u8?md5=tOLcO7cNZTJrFyx8S16xlQ&expires=1775674588&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="",ISTAR QURAN H265
+http://t1-kurdish.zinatv.app/ku/local-Istar-Quran-H265/mono.m3u8?md5=b-VNz1HiewSkyq2_BmB-LA&expires=1775764562&type=a1&info=98f238170000015b
 
 #EXTINF:-1 tvg-logo="",NEWLINE SPORT H265
-http://t1-localchannels.zinatv.app/ku/local-Newline-Sport-H265/mono.m3u8?md5=1_47RavqZSuvL3hLcEn_SA&expires=1775674608&type=a1&info=98f238170000015b
+http://t1-localchannels.zinatv.app/ku/local-Newline-Sport-H265/mono.m3u8?md5=acatMiCmmwXy7gJNmW1BUw&expires=1775764577&type=a1&info=98f238170000015b
 
-#EXTINF:-1 tvg-logo="",ARO SPORT
-http://t1-localchannels.zinatv.app/ku/local-Aro-Sport/mono.m3u8?md5=0jQThKXEc-w-GvdgYicMrQ&expires=1775674613&type=a1&info=98f238170000015b
-
-#EXTINF:-1 tvg-logo="",KURD NRT SPORT
-http://t1-localchannels.zinatv.app/ku/KURD-NRT-Sport/mono.m3u8?md5=EVGbC9HXbzeUJqaRznLQSA&expires=1775674616&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="",AVA SPORT H265
+http://t1-localchannels.zinatv.app/ku/ava-sport-h265/mono.m3u8?md5=iIHXQ2gDg_EbtDhS9q0qKA&expires=1775764584&type=a1&info=98f238170000015b
 
 #EXTINF:-1 tvg-logo="",BEIN SP 1 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-1-H265-extended/mono.m3u8?md5=HFJDcP_rthYXWXtN2lKwMQ&expires=1775674626&type=a1&info=98f238170000015b
+http://t1-ssn.zinatv.app/ar-s/bein-sp-1-H265-extended/mono.m3u8?md5=F-xvp431Bq8cozIk0-aQ1g&expires=1775764595&type=a1&info=98f238170000015b
 
 #EXTINF:-1 tvg-logo="",BEIN SP 2 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-2-H265-extended/mono.m3u8?md5=r0efhjFx0fzdRGaEZN68HQ&expires=1775674638&type=a1&info=98f238170000015b
+http://t1-ssn.zinatv.app/ar-s/bein-sp-2-H265-extended/mono.m3u8?md5=2nukeHQ6r2J5rXlhUhJT1Q&expires=1775764599&type=a1&info=98f238170000015b
 
 #EXTINF:-1 tvg-logo="",BEIN SP 3 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-3-H265-extended/mono.m3u8?md5=-1z9JVYI2TpO6RxJIZgyvg&expires=1775674641&type=a1&info=98f238170000015b
-
-#EXTINF:-1 tvg-logo="",DUHOK SPORT
-http://t1-localchannels.zinatv.app/ku/local-Duhok-Sport/mono.m3u8?md5=ciV1045XYsQcXeNC6wnS0Q&expires=1775674648&type=a1&info=98f238170000015b
+http://t1-ssn.zinatv.app/ar-s/bein-sp-3-H265-extended/mono.m3u8?md5=HFEbMCodNc9CkZcp8TwZog&expires=1775764600&type=a1&info=98f238170000015b
 

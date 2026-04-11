@@ -1,34 +1,388 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",ISTAR QURAN H265
-http://t1-kurdish.zinatv.app/ku/local-Istar-Quran-H265/mono.m3u8?md5=twKFYnX4rc-BngGRvG5MNQ&expires=1775936403&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ava.png",KURD ▎AVA ENTERTAINMENT TV
+http://line.appmax.pro:80/live/647554/83F5DC/101891.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎AVA ENTERTAINMENT KUR HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443584.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎AVA ENTERTAINMENT SOR HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443585.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/rojava.png",KURD ▎ROJAVA TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/3874.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎AVA SPORTS HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443662.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎AVAR TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443666.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/rudaw.png",KURD ▎RUDAW FHD
+http://line.appmax.pro:80/live/647554/83F5DC/2200.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎RUDAW HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443580.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nrt.png",KURD ▎NRT 1 FHD
+http://line.appmax.pro:80/live/647554/83F5DC/3847.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nrt2.png",KURD ▎NRT 2 FHD
+http://line.appmax.pro:80/live/647554/83F5DC/3846.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nrt3kids.png",KURD ▎NRT 3 KIDS
+http://line.appmax.pro:80/live/647554/83F5DC/3875.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nrt4.png",KURD ▎NRT 4 FHD
+http://line.appmax.pro:80/live/647554/83F5DC/112212.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nrtsport.png",KURD ▎NRT SPORT HD
+http://line.appmax.pro:80/live/647554/83F5DC/741921.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎KALAPUR TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443595.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/derintv.png",KURD ▎DERIN TV
+http://line.appmax.pro:80/live/647554/83F5DC/598509.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/asterababy.png",KURD ▎ASTERA BABY
+http://line.appmax.pro:80/live/647554/83F5DC/89684.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/asteramovies.png",KURD ▎ASTERA MOVIES
+http://line.appmax.pro:80/live/647554/83F5DC/89682.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/asterashow.png",KURD ▎ASTERA SHOW HD
+http://line.appmax.pro:80/live/647554/83F5DC/89681.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/asterasport.png",KURD ▎ASTERA SPORT
+http://line.appmax.pro:80/live/647554/83F5DC/89680.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ASTERA CULTURE HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443650.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/newline.png",KURD ▎NEWLINE HD
+http://line.appmax.pro:80/live/647554/83F5DC/89653.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/newline2.png",KURD ▎NEWLINE2 HD
+http://line.appmax.pro:80/live/647554/83F5DC/89652.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/asteradocumentary.png",KURD ▎ASTERA DOCUMENTARY HD
+http://line.appmax.pro:80/live/647554/83F5DC/741929.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/newline.png",KURD ▎NEWLINE KIDS HD
+http://line.appmax.pro:80/live/647554/83F5DC/741932.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/newline.png",KURD ▎NEWLINE MOVIES HD
+http://line.appmax.pro:80/live/647554/83F5DC/741933.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/newline.png",KURD ▎NEWLINE DRAMA HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443623.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/newline.png",KURD ▎NEWLINE SPORT HD
+http://line.appmax.pro:80/live/647554/83F5DC/741934.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/newline.png",KURD ▎NEWLINE BOLLYWOOD HD
+http://line.appmax.pro:80/live/647554/83F5DC/741935.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/suryoyo.png",KURD ▎SURYOYO SAT
+http://line.appmax.pro:80/live/647554/83F5DC/1132.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/suroyotv.png",KURD ▎SUROYO TV
+http://line.appmax.pro:80/live/647554/83F5DC/2945.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdmaxkur.png",KURD ▎KURDMAX FHD KUR
+http://line.appmax.pro:80/live/647554/83F5DC/3868.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdmaxkur.png",KURD ▎KURDMAX FHD SOR
+http://line.appmax.pro:80/live/647554/83F5DC/3867.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdmaxshow.png",KURD ▎KURDMAX SHOW SORANI FHD
+http://line.appmax.pro:80/live/647554/83F5DC/3866.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdistantv.png",KURD ▎KURDSAT TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/2225.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/k24.png",KURD ▎K24 DOCUMENTARY HD
+http://line.appmax.pro:80/live/647554/83F5DC/3839.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/knn.png",KURD ▎KNN TV
+http://line.appmax.pro:80/live/647554/83F5DC/488612.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zagros.png",KURD ▎ZAGROS FHD
+http://line.appmax.pro:80/live/647554/83F5DC/2230.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ZAGROS TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443604.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ishtartv.png",KURD ▎ISHTAR TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/3855.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdsatnews.png",KURD ▎KURDSAT NEWS HD
+http://line.appmax.pro:80/live/647554/83F5DC/3864.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ronahi.png",KURD ▎RONAHI TV
+http://line.appmax.pro:80/live/647554/83F5DC/3588.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/sterktv.png",KURD ▎STERK TV 
+http://line.appmax.pro:80/live/647554/83F5DC/3870.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/trtkurdi.png",KURD ▎TRT KURDI FHD
+http://line.appmax.pro:80/live/647554/83F5DC/3873.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ciratv.png",KURD ▎CIRA TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/3590.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/waar.png",KURD ▎WAAR TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/3586.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdsat.png",KURD ▎KURDSAT TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/2946.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdmaxmusic.png",KURD ▎KURDMAX MUSIC FHD
+http://line.appmax.pro:80/live/647554/83F5DC/67719.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/speda.png",KURD ▎SPEDA TV
+http://line.appmax.pro:80/live/647554/83F5DC/3850.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/payamtv.png",KURD ▎PAYAM TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/109588.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/jintv.png",KURD ▎JIN TV
+http://line.appmax.pro:80/live/647554/83F5DC/109589.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎WELAT TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1795827.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/asman.png",KURD ▎ASMAN HD
+http://line.appmax.pro:80/live/647554/83F5DC/89686.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/komal.png",KURD ▎KOMALA HD
+http://line.appmax.pro:80/live/647554/83F5DC/89659.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nigafamily.png",KURD ▎NIGA FAMILY HD
+http://line.appmax.pro:80/live/647554/83F5DC/89651.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nigakids.png",KURD ▎NIGA KIDS HD
+http://line.appmax.pro:80/live/647554/83F5DC/89650.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nigamovies.png",KURD ▎NIGA MOVIES HD
+http://line.appmax.pro:80/live/647554/83F5DC/89649.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/qalat.png",KURD ▎QALAT HD
+http://line.appmax.pro:80/live/647554/83F5DC/89647.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/rengdocument.png",KURD ▎RENG DOCUMENT HD
+http://line.appmax.pro:80/live/647554/83F5DC/89645.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/reng.png",KURD ▎RENG HD
+http://line.appmax.pro:80/live/647554/83F5DC/89644.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/reng.png",KURD ▎RENG KIDS HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443622.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/shaysta.png",KURD ▎SHAISTA TV
+http://line.appmax.pro:80/live/647554/83F5DC/89642.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zedtv.png",KURD ▎ZED TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/89636.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/derwazetv.png",KURD ▎DERWAZE TV
+http://line.appmax.pro:80/live/647554/83F5DC/115903.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/duhoktv.png",KURD ▎DUHOK TV
+http://line.appmax.pro:80/live/647554/83F5DC/115904.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/atv-hilerethip.png",KURD ▎ATV KURD HD
+http://line.appmax.pro:80/live/647554/83F5DC/122193.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/iraqiakurdish.png",KURD ▎IRAQIYA KURDISH HD
+http://line.appmax.pro:80/live/647554/83F5DC/122195.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/amozhgary.png",KURD ▎AMOZHGARY TV
+http://line.appmax.pro:80/live/647554/83F5DC/122196.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/newmaxcomedy.png",KURD ▎NEWMAX COMEDY HD
+http://line.appmax.pro:80/live/647554/83F5DC/122211.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/rozh.png",KURD ▎ROZH HD
+http://line.appmax.pro:80/live/647554/83F5DC/122214.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/rasan.png",KURD ▎RASAN HD
+http://line.appmax.pro:80/live/647554/83F5DC/723217.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/dasinyasport.png",KURD ▎DASINYA SPORT HD
+http://line.appmax.pro:80/live/647554/83F5DC/122248.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/duhoksports.png",KURD ▎DUHOK SPORTS 
+http://line.appmax.pro:80/live/647554/83F5DC/549136.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/helhelok.png",KURD ▎HELHELOK HD
+http://line.appmax.pro:80/live/647554/83F5DC/122262.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/peshmarga.png",KURD ▎PESHMARGA HD (ONLY LIVE)
+http://line.appmax.pro:80/live/647554/83F5DC/122264.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/befrin.png",KURD ▎BEFRIN HD
+http://line.appmax.pro:80/live/647554/83F5DC/122266.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kani.png",KURD ▎KANI HD
+http://line.appmax.pro:80/live/647554/83F5DC/122269.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/dasinyakids.png",KURD ▎DASINYA KIDS HD
+http://line.appmax.pro:80/live/647554/83F5DC/122271.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/dasinyamusic.png",KURD ▎DASINYA MUSIC HD
+http://line.appmax.pro:80/live/647554/83F5DC/122274.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/afarinkids.png",KURD ▎AFARIN KIDS tv
+http://line.appmax.pro:80/live/647554/83F5DC/122275.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/4kurdhd.png",KURD ▎4KURD HD
+http://line.appmax.pro:80/live/647554/83F5DC/482075.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdchannel.png",KURD ▎KURD TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/482084.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/wwenetwork.png",KURD ▎WWE HD
+http://line.appmax.pro:80/live/647554/83F5DC/482091.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdmaxpepule.png",KURD ▎KURDMAX PEPULE FHD
+http://line.appmax.pro:80/live/647554/83F5DC/92876.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/medyahabertv.png",KURD ▎MEDYA HABER TV
+http://line.appmax.pro:80/live/647554/83F5DC/3871.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/aryentv.png",KURD ▎ARYEN TV
+http://line.appmax.pro:80/live/647554/83F5DC/3852.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/medmuzik.png",KURD ▎MED MUZIK
+http://line.appmax.pro:80/live/647554/83F5DC/3869.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zarok.png",KURD ▎ZAROK TV
+http://line.appmax.pro:80/live/647554/83F5DC/3841.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zarok.png",KURD ▎ZAROK (SORANI)
+http://line.appmax.pro:80/live/647554/83F5DC/122194.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kirkuk.png",KURD ▎KIRKUK TV
+http://line.appmax.pro:80/live/647554/83F5DC/3843.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/bangxwazenbadinan.png",KURD ▎BANGAWAZ TV
+http://line.appmax.pro:80/live/647554/83F5DC/90603.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/sahar.png",KURD ▎SAHAR KURDI
+http://line.appmax.pro:80/live/647554/83F5DC/92178.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/utv.png",KURD ▎U TV
+http://line.appmax.pro:80/live/647554/83F5DC/89640.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/galikurdistan.png",KURD ▎GALI KURDISTAN
+http://line.appmax.pro:80/live/647554/83F5DC/122190.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdistan24.png",KURD ▎KURDISTAN 24 HD
+http://line.appmax.pro:80/live/647554/83F5DC/598475.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/gelikurdistan.png",KURD ▎GELI KURDISTAN TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/598476.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/bangxwazenbadinan.png",KURD ▎BANGXWAZEN BADINAN TV
+http://line.appmax.pro:80/live/647554/83F5DC/598477.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/sima.png",KURD ▎SIMA HD
+http://line.appmax.pro:80/live/647554/83F5DC/598489.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/eurokurd.png",KURD ▎EURO KURD HD
+http://line.appmax.pro:80/live/647554/83F5DC/598501.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/derintv.png",KURD ▎AZHIN TV
+http://line.appmax.pro:80/live/647554/83F5DC/598504.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/shakrokkids.png",KURD ▎SHAKROK TV
+http://line.appmax.pro:80/live/647554/83F5DC/598514.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/sadatv.png",KURD ▎SADA TV
+http://line.appmax.pro:80/live/647554/83F5DC/598517.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/kurdchannel.png",KURD ▎KURD CHANNEL
+http://line.appmax.pro:80/live/647554/83F5DC/598518.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/jamawartv.png",KURD ▎JAMAWAR TV
+http://line.appmax.pro:80/live/647554/83F5DC/741923.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/derwazetv.png",KURD ▎DERWAZE MUSIC HD
+http://line.appmax.pro:80/live/647554/83F5DC/741931.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/bmc.png",KURD ▎BMC HD
+http://line.appmax.pro:80/live/647554/83F5DC/741936.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/afarinkids.png",KURD ▎AFARIN BAXCHA HD
+http://line.appmax.pro:80/live/647554/83F5DC/741937.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ldsport.png",KURD ▎LD SPORT HD
+http://line.appmax.pro:80/live/647554/83F5DC/741939.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zedtv.png",KURD ▎ZED PLUS HD
+http://line.appmax.pro:80/live/647554/83F5DC/741941.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/srusht.png",KURD ▎SRUSHT
+http://line.appmax.pro:80/live/647554/83F5DC/771666.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN MOVIES SD
+http://line.appmax.pro:80/live/647554/83F5DC/1443590.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN DRAMA SD
+http://line.appmax.pro:80/live/647554/83F5DC/1443591.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN ACTION HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443592.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN CLASSIC MUSICAL SD
+http://line.appmax.pro:80/live/647554/83F5DC/1443625.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN DOCUMENTARY FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443626.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN KIDS SD
+http://line.appmax.pro:80/live/647554/83F5DC/1443627.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN SHOW HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443628.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN SPORT HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443635.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN RADIO TURKEY HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443646.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN NEWS SD
+http://line.appmax.pro:80/live/647554/83F5DC/1443649.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN CLIP SD
+http://line.appmax.pro:80/live/647554/83F5DC/1443654.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MMN FARSE HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443667.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎BARIN FAMILY FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443599.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎BARIN MOVIES FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443600.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎BARIN QURAN FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443601.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ARO FAMILY HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443587.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ARO DRAMA HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443658.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ARO SPORT HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443661.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎RONAHI TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443581.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎CHANNEL 8 FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443582.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎KURDMAX SHOW KURMANCI HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443583.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎WAAR HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443586.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ZAXO TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443588.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎NEXT FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443589.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎BNAR HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443593.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ZNAR HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443594.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎HALABJA HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443596.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎BAHA ENTERTAINMENT FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443597.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎RANYA FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443598.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎NUBAR HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443602.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎NUBAR PLUS HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443603.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ALYAUM TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443605.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎NEU TV SD
+http://line.appmax.pro:80/live/647554/83F5DC/1443606.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎BINER TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443608.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎BABOLY HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443609.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ALA HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443610.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MINARA HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443611.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ASHTI HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443612.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎JOJO MAMA FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443613.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/iribkurdistan.png",KURD ▎IRIB KORDESTAN TV SD
+http://line.appmax.pro:80/live/647554/83F5DC/1443614.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎GEWHER TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443615.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/komal.png",KURD ▎KOMAL RANYA HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443616.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ZEVER TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443617.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎AMED TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443618.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MIHRAB HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443619.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ARIFAN FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443620.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎RASOUL ALLAH TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443621.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎NISHTIMAN MN HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443624.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎KIDCO FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443629.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎CIHAN HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443630.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎U2 TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443631.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎SHAR TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443632.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎REVEND HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443633.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎LAWAN FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443636.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎TASAWAF HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443637.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/eman.png",KURD ▎EMAN TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443638.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎BASK TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443640.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎DIMEN TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443641.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ZHYAR TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443642.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎SOZ HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443643.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎ASO SPORT FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443647.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎KHAK TV SD
+http://line.appmax.pro:80/live/647554/83F5DC/1443648.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎GOOL SPORTS HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443651.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎FIRST KIDS TV FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443652.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/foxhd.png",KURD ▎FOX HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443655.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/speda.png",KURD ▎SPEDA DRAMA FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443656.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎MTV SPORTS HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443657.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/onetv.png",KURD ▎ONE TV HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443659.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎PELISTANK HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443663.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎KURDISTAN SPORTS FHD
+http://line.appmax.pro:80/live/647554/83F5DC/1443664.m3u8
+#EXTINF:-1 tvg-logo="",KURD ▎KURD7 HD
+http://line.appmax.pro:80/live/647554/83F5DC/1443665.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEIN ▎BEIN SPORTS 1 SD S1
+http://line.appmax.pro:80/live/647554/83F5DC/897681.m3u8
 
-#EXTINF:-1 tvg-logo="",AVA SPORT H265
-http://t1-localchannels.zinatv.app/ku/ava-sport-h265/mono.m3u8?md5=NAOZF4lKjjiuO91mIRDdOA&expires=1775936420&type=a1&info=98f238170000015b
 
-#EXTINF:-1 tvg-logo="",NISHTMANIMN H265
-http://t1-kurdish.zinatv.app/ku/local-Nishtmanimn-H265/mono.m3u8?md5=VoH31zEoIbj9OaFMQdDIPw&expires=1775936425&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEIN ▎BEIN SPORTS 2 SD S1
+http://line.appmax.pro:80/live/647554/83F5DC/897682.m3u8
 
-#EXTINF:-1 tvg-logo="",RASAN H265
-http://t1-kurdish.zinatv.app/ku/local-Rasan-H265/mono.m3u8?md5=x7bIPjD_rl3Fjuk2h2bJVQ&expires=1775936426&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEIN ▎BEIN SPORTS 3 SD S1
+http://line.appmax.pro:80/live/647554/83F5DC/897683.m3u8
 
-#EXTINF:-1 tvg-logo="",BEIN SP 1 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-1-H265-extended/mono.m3u8?md5=tpCFb1u35zLqSEiD9PmwyA&expires=1775936432&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEIN ▎BEIN SPORTS 4 SD S1
+http://line.appmax.pro:80/live/647554/83F5DC/897684.m3u8
 
-#EXTINF:-1 tvg-logo="",BEIN SP 2 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-2-H265-extended/mono.m3u8?md5=4zHQUNdLwQLbIKgc4Qj1pw&expires=1775936434&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEIN ▎BEIN SPORTS 5 SD S1
+http://line.appmax.pro:80/live/647554/83F5DC/897685.m3u8
 
-#EXTINF:-1 tvg-logo="",BEIN SP 3 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-3-H265-extended/mono.m3u8?md5=lFR-_j8XHPKJOKgcmKTrig&expires=1775936435&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEIN ▎BEIN SPORTS 6 SD S1
+http://line.appmax.pro:80/live/647554/83F5DC/897686.m3u8
 
-#EXTINF:-1 tvg-logo="",BEIN SP 4 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-4-H265-extended/mono.m3u8?md5=1WMxNyXwyHQ7-SGiSGSR-g&expires=1775936436&type=a1&info=98f238170000015b
 
-#EXTINF:-1 tvg-logo="",BEIN SP 5 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-5-H265-extended/mono.m3u8?md5=t6b4wyAHfs949QB-d_nxQQ&expires=1775936437&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEIN ▎BEIN SPORTS 7 SD S1
+http://line.appmax.pro:80/live/647554/83F5DC/897687.m3u8
 
-#EXTINF:-1 tvg-logo="",BEIN SP 6 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-6-H265-extended/mono.m3u8?md5=ZSyB-3xJVQbGGV20zC3shg&expires=1775936438&type=a1&info=98f238170000015b
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEIN ▎BEIN SPORTS 8 SD S1
+http://line.appmax.pro:80/live/647554/83F5DC/897688.m3u8
 
-#EXTINF:-1 tvg-logo="",BEIN SP 7 H265 EXTENDED
-http://t1-ssn.zinatv.app/ar-s/bein-sp-7-H265-extended/mono.m3u8?md5=8Wn-qLTml3hmEOwDqi6LmA&expires=1775936440&type=a1&info=98f238170000015b
-
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEIN ▎BEIN SPORTS 9 SD S1
